@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/POO/Temario.md",
-                "mode": "preview",
+                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/POO/Temario.md",
+                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/POO/Temario.md",
+                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/POO/Temario.md"
+                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md"
               }
             }
           },
@@ -164,6 +164,10 @@
   },
   "active": "a005251594fa525e",
   "lastOpenFiles": [
+    "asignaturas/EPED/temario/06. Árboles.md",
+    "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
+    "README.md",
+    "asignaturas/POO/Temario.md",
     "asignaturas/POO/Conceptos.md",
     "asignaturas/LED/04_Grafos y árboles.md",
     "asignaturas/LED/03_Conjuntos, relaciones, funciones _ Combinatoria.md",
@@ -173,7 +177,6 @@
     "asignaturas/EPED/temario/Temario.md",
     "asignaturas/FFTI/_anotaciones examen feb23.md",
     "asignaturas/EPED/temario/07. Árboles binarios de búsqueda.md",
-    "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/EPED/temario/05. Pilas y colas.md",
     "asignaturas/EPED/temario/04. Listas.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
@@ -191,9 +194,6 @@
     "planning/22-23/2023-W08.md",
     "asignaturas/POO/practica",
     "planning/22-23/2023-W10.md",
-    "planning/22-23/2023-W09.md",
-    "planning/22-23/2023-W18.md",
-    "planning/22-23/2023-W17.md",
     "asignaturas/EPED/recursos",
     "notas",
     "asignaturas/EPED/temario"
