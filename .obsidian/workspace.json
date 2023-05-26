@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
+                "file": "asignaturas/EPED/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
+                "file": "asignaturas/EPED/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
+                "file": "asignaturas/EPED/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md"
+                "file": "asignaturas/EPED/README.md"
               }
             }
           },
@@ -165,7 +165,7 @@
   "active": "a005251594fa525e",
   "lastOpenFiles": [
     "asignaturas/EPED/temario/06. Árboles.md",
-    "asignaturas/EPED/Estrategias de Programación y Estructuras de Datos.md",
+    "asignaturas/EPED/README.md",
     "README.md",
     "asignaturas/POO/Temario.md",
     "asignaturas/POO/Conceptos.md",
