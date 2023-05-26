@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/EPED/README.md",
+                "file": "asignaturas/FFTI/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/EPED/README.md",
+                "file": "asignaturas/FFTI/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/EPED/README.md",
+                "file": "asignaturas/FFTI/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/EPED/README.md"
+                "file": "asignaturas/FFTI/README.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "a005251594fa525e",
   "lastOpenFiles": [
-    "README.md",
     "asignaturas/EPED/README.md",
+    "asignaturas/FFTI/README.md",
+    "README.md",
     "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/POO/Temario.md",
     "asignaturas/POO/Conceptos.md",
@@ -193,7 +194,6 @@
     "asignaturas/POO/practica/plan.md",
     "planning/22-23/2023-W08.md",
     "asignaturas/POO/practica",
-    "planning/22-23/2023-W10.md",
     "asignaturas/EPED/recursos",
     "notas",
     "asignaturas/EPED/temario"
