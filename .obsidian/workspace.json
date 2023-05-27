@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                "file": "asignaturas/EPED/temario/05. Pilas y colas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                "file": "asignaturas/EPED/temario/05. Pilas y colas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                "file": "asignaturas/EPED/temario/05. Pilas y colas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md"
+                "file": "asignaturas/EPED/temario/05. Pilas y colas.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "42c6dfeb1e3627a9",
   "lastOpenFiles": [
-    "asignaturas/EPED/temario/06. Árboles.md",
+    "asignaturas/EPED/temario/04. Listas.md",
+    "asignaturas/EPED/temario/05. Pilas y colas.md",
     "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+    "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/EPED/recursos/videos Makigas.md",
     "asignaturas/EPED/temario/02. Programación recursiva.md",
     "asignaturas/POO/recursos.md",
@@ -184,8 +186,6 @@
     "asignaturas/EPED/temario/Temario.md",
     "asignaturas/FFTI/_anotaciones examen feb23.md",
     "asignaturas/EPED/temario/07. Árboles binarios de búsqueda.md",
-    "asignaturas/EPED/temario/05. Pilas y colas.md",
-    "asignaturas/EPED/temario/04. Listas.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "notas/asignaturas IA.md",
     "asignaturas/EPED/esquemas/Untitled.md",
