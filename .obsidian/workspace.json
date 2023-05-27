@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "61a4e0e3f80375f3",
-        "type": "split",
+        "id": "1993aad7aea5a886",
+        "type": "tabs",
         "children": [
           {
-            "id": "aa8a88ae2bf2a0d1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a005251594fa525e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "asignaturas/POO/recursos.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "42c6dfeb1e3627a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "1993aad7aea5a886",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "357941c13bb51c69",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/POO/recursos.md",
+                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/POO/recursos.md",
+                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/POO/recursos.md"
+                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md"
               }
             }
           },
@@ -183,14 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a005251594fa525e",
+  "active": "42c6dfeb1e3627a9",
   "lastOpenFiles": [
+    "asignaturas/EPED/temario/06. Árboles.md",
+    "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
     "asignaturas/EPED/recursos/videos Makigas.md",
+    "asignaturas/EPED/temario/02. Programación recursiva.md",
     "asignaturas/POO/recursos.md",
     "asignaturas/POO/README.md",
     "README.md",
-    "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
-    "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/POO/Temario.md",
     "asignaturas/POO/Conceptos.md",
     "asignaturas/LED/README.md",
@@ -207,7 +187,6 @@
     "asignaturas/EPED/temario/05. Pilas y colas.md",
     "asignaturas/EPED/temario/04. Listas.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
-    "asignaturas/EPED/temario/02. Programación recursiva.md",
     "notas/asignaturas IA.md",
     "asignaturas/EPED/esquemas/Untitled.md",
     "asignaturas/EPED/esquemas",
