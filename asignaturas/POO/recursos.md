@@ -1,0 +1,2 @@
+- Libro de la asignatura en ingebook (acceso con cuenta UNED): [PROGRAMACIÓN ORIENTADA A OBJETOS CON JAVA USANDO BLUEJ 6ED](https://www-ingebook-com.bibliotecauned.idm.oclc.org/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=6851)
+- Documentación Java: https://docs.oracle.com/en/java/javase/11/docs/api/index.html

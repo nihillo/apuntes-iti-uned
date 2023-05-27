@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                    "file": "asignaturas/POO/recursos.md",
                     "mode": "source",
                     "source": false
                   }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                "file": "asignaturas/POO/recursos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+                "file": "asignaturas/POO/recursos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/EPED/temario/01. Estructuras de datos básicas.md"
+                "file": "asignaturas/POO/recursos.md"
               }
             }
           },
@@ -185,15 +185,17 @@
   },
   "active": "a005251594fa525e",
   "lastOpenFiles": [
-    "asignaturas/EPED/temario/06. Árboles.md",
-    "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+    "asignaturas/EPED/recursos/videos Makigas.md",
+    "asignaturas/POO/recursos.md",
     "asignaturas/POO/README.md",
+    "README.md",
+    "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+    "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/POO/Temario.md",
     "asignaturas/POO/Conceptos.md",
     "asignaturas/LED/README.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/EPED/README.md",
-    "README.md",
     "asignaturas/LED/04_Grafos y árboles.md",
     "asignaturas/LED/03_Conjuntos, relaciones, funciones _ Combinatoria.md",
     "asignaturas/LED/02_Lógica de predicados.md",
@@ -211,8 +213,6 @@
     "asignaturas/EPED/esquemas",
     "asignaturas/FFTI/temario/01. Campo eléctrico y propiedades eléctricas de la materia.md",
     "asignaturas/FFTI/temario/index.html",
-    "asignaturas/POO/practica/anotaciones video Baleares.md",
-    "asignaturas/POO/practica/memoria/Memoria.md",
     "asignaturas/POO/practica/memoria",
     "asignaturas/POO/practica",
     "asignaturas/EPED/recursos",
