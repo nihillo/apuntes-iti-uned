@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "1993aad7aea5a886",
-        "type": "tabs",
+        "id": "f8456def28803124",
+        "type": "split",
         "children": [
           {
-            "id": "42c6dfeb1e3627a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/EPED/temario/05. Pilas y colas.md",
-                "mode": "source",
-                "source": false
+            "id": "1993aad7aea5a886",
+            "type": "tabs",
+            "dimension": 81.48148148148148,
+            "children": [
+              {
+                "id": "42c6dfeb1e3627a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "asignaturas/POO/Temario.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "7c145993c446b462",
+            "type": "tabs",
+            "dimension": 18.51851851851852,
+            "children": [
+              {
+                "id": "2cc19c0086ed4974",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/EPED/temario/05. Pilas y colas.md",
+                "file": "asignaturas/POO/Temario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/EPED/temario/05. Pilas y colas.md",
+                "file": "asignaturas/POO/Temario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/EPED/temario/05. Pilas y colas.md"
+                "file": "asignaturas/POO/Temario.md"
               }
             }
           },
@@ -164,13 +187,13 @@
   },
   "active": "42c6dfeb1e3627a9",
   "lastOpenFiles": [
-    "asignaturas/EPED/temario/04. Listas.md",
-    "asignaturas/EPED/temario/05. Pilas y colas.md",
+    "asignaturas/POO/recursos.md",
     "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
+    "asignaturas/EPED/temario/05. Pilas y colas.md",
+    "asignaturas/EPED/temario/04. Listas.md",
     "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/EPED/recursos/videos Makigas.md",
     "asignaturas/EPED/temario/02. Programación recursiva.md",
-    "asignaturas/POO/recursos.md",
     "asignaturas/POO/README.md",
     "README.md",
     "asignaturas/POO/Temario.md",

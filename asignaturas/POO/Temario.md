@@ -192,21 +192,46 @@
 
 
 ### 8. Objetos con buen comportamiento (Cap. 9)
-- pruebas
-	- pruebas unitarias
-	- automatización de pruebas
-	- pruebas con BlueJ
-	- prueba positiva
-	- prueba negativa
-	- prueba de regresión
-	- fixture
-- depuración
-	- seguimiento manual
-	- secuencia de llamadas
-- errores
-	- error de sintaxis
-	- error de lógica
-- aserción
+
+#### Pruebas
+Las pruebas son la actividad consistente en averiguar si un fragmento de código (un método, una clase o un probrama) presenta el comportamiento deseado.
+
+##### Prueba unitaria
+La prueba unitaria se refiere a las pruebas de las partes individuales de una aplicación, como los métodos y las clases.
+
+##### Banco de pruebas
+Un banco de pruebas es un conjunto de objetos en un estado definido que sirven como base para realizar pruebas de unidades.
+
+##### Prueba positiva
+Una prueba positiva es la prueba de un caso que se espera que funcione correctamente.
+
+##### Prueba negativa
+Una prueba negativa es la prueba de un caso que se espera que falle.
+
+##### Automatización de pruebas
+La automatización de pruebas simplifica el poceso de pruebas de regresión
+
+##### Pruebas de regresión
+Las prubasd e regresión implican volver a ejecutar preubas que ya se pasaron anteriormente con éxito, para garantizar que la nueva versión sigue superándolas.
+
+##### Otros conceptos
+- pruebas con BlueJ
+- fixture
+
+#### Depuración
+La depuración es el intento de localizar y corregir el origen de un error.
+
+##### Recorrido manual
+Un recorrido manual es la actividad consistente en analizar un segmento de código línea a línea mientras que se observan los cambios de estado y otros comportamientos de la aplicación.
+
+##### Secuencia de llamadas
+
+#### Errores
+- error de sintaxis
+- error de lógica
+
+#### Aserción
+Una aserción es una expresión que establece una condición que esperamos que sea cierta. Si la condición es falsa, decimos que la aserción ha fallado. Esto indica que hay algún error en nuestro programa.
 
 
 ### 9. Mejora de la estructura mediante la herencia (Cap. 10)
