@@ -142,7 +142,9 @@
 - variable de clase
 	- static
 - constante
-- final
+- final: 
+	- indica que el valor de la variable no se puede modificar
+	- si se aplica a un método, significa que no se puede sobreescribir
 - interfaz
 	- implementación
 - mapa
@@ -209,10 +211,10 @@ Una prueba positiva es la prueba de un caso que se espera que funcione correctam
 Una prueba negativa es la prueba de un caso que se espera que falle.
 
 ##### Automatización de pruebas
-La automatización de pruebas simplifica el poceso de pruebas de regresión
+La automatización de pruebas simplifica el proceso de pruebas de regresión
 
 ##### Pruebas de regresión
-Las prubasd e regresión implican volver a ejecutar preubas que ya se pasaron anteriormente con éxito, para garantizar que la nueva versión sigue superándolas.
+Las prubas de regresión implican volver a ejecutar pruebas que ya se pasaron anteriormente con éxito, para garantizar que la nueva versión sigue superándolas.
 
 ##### Otros conceptos
 - pruebas con BlueJ
@@ -258,22 +260,27 @@ Una aserción es una expresión que establece una condición que esperamos que s
 - pérdida de tipo
 
 ### 10. Más sobre la herencia (Cap. 11)
-- método polimórfico
-- tipo estático y tipo dinámico
-	- tipo estático
-		- tipo declarado
-	- tipo dinámico
-		- tipo del objeto almacenado actualmente en la variable
-- sobrescritura
-	- sobreescritura de métodos
-- redefinición
-- método de búsqueda dinámica
-- despacho de método
-- método polimórfico
-- super (métodos)
+
+#### Método polimórfico
+
+#### Tipo estático y tipo dinámico
+##### Tipo estático
+El tipo estático de una variable v es el tipo tal como está declarado en el código fuente, en la instrucción de declaración de la variable.
+
+##### Tipo dinámico
+El tipo dinámico de una variable v es el tipo del objeto que está almacenado actualmente en v.
+
+#### Sobrescritura
+ - sobreescritura de métodos
+
+#### Redefinición
+#### Método de búsqueda dinámica
+#### Despacho de método
+#### Método polimórfico
+#### Super (métodos)
 	- invoca a la versión del método de la superclase
-- toString
-- protected
+#### toString
+#### protected
 	- sublcase tiene permitido acceso pero resto de clases no
 
 ### 11. Técnicas de abstracción adicionales (Cap. 12)
@@ -295,26 +302,51 @@ Una aserción es una expresión que establece una condición que esperamos que s
 - instanceof
 
 ### 12. Tratamiento de errores (Cap. 14)
-- programación defensiva
-- informe de errores
-- lanzamiento y manejo de excepciones
-- procesamiento simple dea rchivos
-- estructuras de datos
-	- TreeMap
-	- TreeSet
-	- SortedMap
-- aserción
-	- assert
-- excepción
-	- comprobada
-	- no comprobada
-	- manejador de excepciones
-- throw
-- throws
-- try
-- catch
-- FileReader
-- FileWriter
-- Scanner
-- flujo
-- serialización
+#### Programación defensiva
+
+#### Informe de errores
+
+#### Lanzamiento y manejo de excepciones
+
+#### Procesamiento simple dea rchivos
+
+#### Estructuras de datos
+
+##### TreeMap
+
+##### TreeSet
+
+##### SortedMap
+
+#### Aserción
+
+##### Assert
+
+#### Excepción
+Una excepción es un objeto que representa los detalles de un fallo del programa. La excepción se genera para indicar que se ha producido un fallo.
+
+##### Comprobada
+Una excepción comprobada es un tipo de excepción cuyo uso requiere comprobaciones adicionales por parte del compilador. En particular, las excepciones comprobadas en Java requieren que se usen cláusulas *throws* e instrucciones *try*.
+
+##### No comprobada
+Una excepción no comprobada es un tipo de excepción cuyo uso no requiere ninguna comprobación por parte del compilador.
+
+##### Manejador de excepciones
+
+#### throw
+
+#### throws
+
+#### try
+
+#### catch
+
+#### FileReader
+
+#### FileWriter
+
+#### Scanner
+
+#### Flujo
+
+#### Serialización

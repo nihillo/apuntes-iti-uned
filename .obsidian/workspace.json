@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "asignaturas/POO/Temario.md",
+                    "file": "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
                     "mode": "source",
                     "source": false
                   }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/POO/Temario.md",
+                "file": "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/POO/Temario.md",
+                "file": "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,24 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/POO/Temario.md"
+                "file": "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md"
               }
-            }
-          },
-          {
-            "id": "e8a74de0ee68ae2e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +180,8 @@
   },
   "active": "42c6dfeb1e3627a9",
   "lastOpenFiles": [
+    "asignaturas/POO/Temario.md",
+    "asignaturas/POO/Conceptos.md",
     "asignaturas/POO/recursos.md",
     "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
     "asignaturas/EPED/temario/05. Pilas y colas.md",
@@ -196,8 +191,6 @@
     "asignaturas/EPED/temario/02. Programación recursiva.md",
     "asignaturas/POO/README.md",
     "README.md",
-    "asignaturas/POO/Temario.md",
-    "asignaturas/POO/Conceptos.md",
     "asignaturas/LED/README.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/EPED/README.md",
