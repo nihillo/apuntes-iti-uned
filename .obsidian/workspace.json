@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "a534becdd4754bd7",
-        "type": "tabs",
+        "id": "14f5fac761844482",
+        "type": "split",
         "children": [
           {
-            "id": "604af484c7ebb337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
-                "mode": "source",
-                "source": false
+            "id": "a534becdd4754bd7",
+            "type": "tabs",
+            "dimension": 81.48148148148148,
+            "children": [
+              {
+                "id": "604af484c7ebb337",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "6c5fc0210023d3fe",
+            "type": "tabs",
+            "dimension": 18.51851851851852,
+            "children": [
+              {
+                "id": "7829d110f13dc274",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -73,11 +96,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 550.5
+    "width": 200
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
+                "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
+                "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md"
+                "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md"
               }
             }
           }
@@ -158,8 +182,8 @@
   "active": "604af484c7ebb337",
   "lastOpenFiles": [
     "asignaturas/FFTI/temario/01. Campo eléctrico y propiedades eléctricas de la materia.md",
-    "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
     "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
+    "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
     "asignaturas/FFTI/temario/04. Campo magnético.md",
     "asignaturas/FFTI/temario/05. Inducción electromagnética.md",
     "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
