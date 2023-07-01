@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
+                    "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
                     "mode": "source",
                     "source": false
                   }
@@ -96,12 +96,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 358.5
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
+                "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
+                "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md"
+                "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md"
               }
             }
           }
@@ -181,8 +180,8 @@
   },
   "active": "604af484c7ebb337",
   "lastOpenFiles": [
-    "asignaturas/FFTI/temario/01. Campo eléctrico y propiedades eléctricas de la materia.md",
     "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
+    "asignaturas/FFTI/temario/01. Campo eléctrico y propiedades eléctricas de la materia.md",
     "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
     "asignaturas/FFTI/temario/04. Campo magnético.md",
     "asignaturas/FFTI/temario/05. Inducción electromagnética.md",
