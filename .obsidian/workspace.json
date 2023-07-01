@@ -4,45 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "14f5fac761844482",
-        "type": "split",
+        "id": "6c5fc0210023d3fe",
+        "type": "tabs",
         "children": [
           {
-            "id": "a534becdd4754bd7",
-            "type": "tabs",
-            "dimension": 81.48148148148148,
-            "children": [
-              {
-                "id": "604af484c7ebb337",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "7829d110f13dc274",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           },
           {
-            "id": "6c5fc0210023d3fe",
-            "type": "tabs",
-            "dimension": 18.51851851851852,
-            "children": [
-              {
-                "id": "7829d110f13dc274",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "ebce9c9cff3dacaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "46767dca5145c1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asignaturas/FFTI/unidades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
+                "file": "asignaturas/FFTI/unidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
+                "file": "asignaturas/FFTI/unidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md"
+                "file": "asignaturas/FFTI/unidades.md"
               }
             }
           }
@@ -178,20 +176,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "604af484c7ebb337",
+  "active": "46767dca5145c1f8",
   "lastOpenFiles": [
-    "asignaturas/FFTI/temario/03. Potencial eléctrico. Condensadores.md",
-    "asignaturas/FFTI/temario/01. Campo eléctrico y propiedades eléctricas de la materia.md",
-    "asignaturas/FFTI/temario/02. Conducción y resistencia eléctrica.md",
-    "asignaturas/FFTI/temario/04. Campo magnético.md",
-    "asignaturas/FFTI/temario/05. Inducción electromagnética.md",
-    "asignaturas/FFTI/temario/06. Elementos de los circuitos eléctricos.md",
-    "asignaturas/FFTI/temario/12. Transmisión de la información.md",
-    "asignaturas/FFTI/temario/11. Transistores bipolares y FET.md",
-    "asignaturas/FFTI/temario/10. Semiconductores y diodos.md",
-    "asignaturas/FFTI/temario/09. Análisis de circuitos eléctricos en corriente alterna.md",
-    "asignaturas/FFTI/temario/08. Circuitos eléctricos en régimen transitorio.md",
-    "asignaturas/FFTI/temario/07. Leyes fundamentales de los circuitos eléctricos.md",
+    "asignaturas/FFTI/README.md",
+    "asignaturas/FFTI/procedimientos ejercicios tipo.md",
+    "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
+    "asignaturas/FFTI/temario/Temario.md",
+    "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/01. Campo eléctrico y propiedades eléctricas de la materia.md",
+    "asignaturas/FFTI/temario/3.Electrónica",
+    "asignaturas/FFTI/temario/Untitled.md",
+    "asignaturas/FFTI/temario/2.Electricidad",
+    "asignaturas/FFTI/temario/1.Electromagnetismo",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/02. Conducción y resistencia eléctrica.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/05. Inducción electromagnética.md",
+    "asignaturas/FFTI/temario/3.Electrónica/12. Transmisión de la información.md",
+    "asignaturas/FFTI/temario/3.Electrónica/11. Transistores bipolares y FET.md",
+    "asignaturas/FFTI/temario/2.Electricidad/09. Análisis de circuitos eléctricos en corriente alterna.md",
+    "asignaturas/FFTI/temario/2.Electricidad/08. Circuitos eléctricos en régimen transitorio.md",
+    "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
     "asignaturas/POO/recursos.md",
@@ -202,10 +207,6 @@
     "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/EPED/recursos/videos Makigas.md",
     "asignaturas/EPED/temario/02. Programación recursiva.md",
-    "asignaturas/POO/README.md",
-    "README.md",
-    "asignaturas/LED/README.md",
-    "asignaturas/FFTI/README.md",
     "asignaturas/EPED/esquemas",
     "asignaturas/FFTI/temario/index.html",
     "asignaturas/POO/practica/memoria",
