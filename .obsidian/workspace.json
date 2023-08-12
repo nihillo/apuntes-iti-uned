@@ -4,43 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5fc0210023d3fe",
-        "type": "tabs",
+        "id": "2c89024d5ed0ad79",
+        "type": "split",
         "children": [
           {
-            "id": "7829d110f13dc274",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+            "id": "6c5fc0210023d3fe",
+            "type": "tabs",
+            "dimension": 81.48148148148148,
+            "children": [
+              {
+                "id": "46767dca5145c1f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "ebce9c9cff3dacaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
-                "mode": "source",
-                "source": false
+            "id": "34cdc7248e6ec2ac",
+            "type": "tabs",
+            "dimension": 18.51851851851852,
+            "children": [
+              {
+                "id": "337737b3f3d9a7d1",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "46767dca5145c1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/FFTI/unidades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 299.5
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FFTI/unidades.md",
+                "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FFTI/unidades.md",
+                "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FFTI/unidades.md"
+                "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md"
               }
             }
           }
@@ -163,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +179,12 @@
   },
   "active": "46767dca5145c1f8",
   "lastOpenFiles": [
+    "asignaturas/FFTI/temario/Índice.md",
+    "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
+    "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
+    "asignaturas/FFTI/unidades.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/FFTI/procedimientos ejercicios tipo.md",
-    "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
-    "asignaturas/FFTI/temario/Temario.md",
-    "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
     "asignaturas/FFTI/temario/1.Electromagnetismo/01. Campo eléctrico y propiedades eléctricas de la materia.md",
     "asignaturas/FFTI/temario/3.Electrónica",
     "asignaturas/FFTI/temario/Untitled.md",
@@ -206,7 +208,6 @@
     "asignaturas/EPED/temario/04. Listas.md",
     "asignaturas/EPED/temario/06. Árboles.md",
     "asignaturas/EPED/recursos/videos Makigas.md",
-    "asignaturas/EPED/temario/02. Programación recursiva.md",
     "asignaturas/EPED/esquemas",
     "asignaturas/FFTI/temario/index.html",
     "asignaturas/POO/practica/memoria",
