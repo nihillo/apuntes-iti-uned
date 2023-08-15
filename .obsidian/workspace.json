@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
+                    "file": "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md",
                     "mode": "source",
                     "source": false
                   }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
+                "file": "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
+                "file": "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md"
+                "file": "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md"
               }
             }
           }
@@ -179,9 +179,9 @@
   },
   "active": "46767dca5145c1f8",
   "lastOpenFiles": [
+    "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
     "asignaturas/FFTI/temario/Índice.md",
     "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
-    "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
     "asignaturas/FFTI/unidades.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/FFTI/procedimientos ejercicios tipo.md",
