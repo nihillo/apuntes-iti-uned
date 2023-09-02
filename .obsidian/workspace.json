@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md",
+                    "file": "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md",
                     "mode": "source",
                     "source": false
                   }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md",
+                "file": "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md",
+                "file": "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md"
+                "file": "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md"
               }
             }
           }
@@ -179,24 +179,24 @@
   },
   "active": "46767dca5145c1f8",
   "lastOpenFiles": [
+    "asignaturas/FFTI/temario/1.Electromagnetismo/05. Inducción electromagnética.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md",
+    "asignaturas/FFTI/temario/1.Electromagnetismo/01. Campo eléctrico y propiedades eléctricas de la materia.md",
     "asignaturas/FFTI/temario/1.Electromagnetismo/02. Conducción y resistencia eléctrica.md",
+    "asignaturas/FFTI/unidades.md",
     "asignaturas/FFTI/temario/2.Electricidad/09. Análisis de circuitos eléctricos en corriente alterna.md",
     "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
-    "asignaturas/FFTI/temario/1.Electromagnetismo/03. Potencial eléctrico. Condensadores.md",
     "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md",
     "asignaturas/FFTI/temario/2.Electricidad/08. Circuitos eléctricos en régimen transitorio.md",
     "asignaturas/FFTI/temario/Índice.md",
     "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
-    "asignaturas/FFTI/unidades.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/FFTI/procedimientos ejercicios tipo.md",
-    "asignaturas/FFTI/temario/1.Electromagnetismo/01. Campo eléctrico y propiedades eléctricas de la materia.md",
     "asignaturas/FFTI/temario/3.Electrónica",
     "asignaturas/FFTI/temario/Untitled.md",
     "asignaturas/FFTI/temario/2.Electricidad",
     "asignaturas/FFTI/temario/1.Electromagnetismo",
-    "asignaturas/FFTI/temario/1.Electromagnetismo/04. Campo magnético.md",
-    "asignaturas/FFTI/temario/1.Electromagnetismo/05. Inducción electromagnética.md",
     "asignaturas/FFTI/temario/3.Electrónica/12. Transmisión de la información.md",
     "asignaturas/FFTI/temario/3.Electrónica/11. Transistores bipolares y FET.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
