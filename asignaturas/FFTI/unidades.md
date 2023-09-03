@@ -17,3 +17,8 @@
 |---|---|
 |$T$ (Tesla) (S.I.)|$1 ~ T = 10^{4} ~ G$|
 |$G$ (Gauss)|$1 ~ G = 10^{-4} ~~ T$|
+
+## Energía
+|Unidad|Equivalencia|
+|---|---|
+|ev (electrón voltio) |  |
