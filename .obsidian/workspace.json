@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/FSD/recursos/Moodle Morillo.md",
+                "file": "asignaturas/FSD/temario/2. Lógica combinacional (I) - Funciones aritmético-lógicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,6 +39,16 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90ed72741b90b06f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "asignaturas/FSD/temario/2. Lógica combinacional (I) - Funciones aritmético-lógicas.md"
               }
             }
           },
@@ -73,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/FSD/recursos/Moodle Morillo.md",
+                "file": "asignaturas/FSD/temario/2. Lógica combinacional (I) - Funciones aritmético-lógicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/FSD/recursos/Moodle Morillo.md",
+                "file": "asignaturas/FSD/temario/2. Lógica combinacional (I) - Funciones aritmético-lógicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,16 +139,6 @@
             }
           },
           {
-            "id": "90ed72741b90b06f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "asignaturas/FSD/recursos/Moodle Morillo.md"
-              }
-            }
-          },
-          {
             "id": "8966c6749f973cdd",
             "type": "leaf",
             "state": {
@@ -148,11 +149,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93144fd40403dd63",
+  "active": "90ed72741b90b06f",
   "lastOpenFiles": [
-    "asignaturas/EPED/recursos/videos Makigas.md",
+    "asignaturas/FSD/temario/10. Lógica secuencial programable - CPLDs y FPGAs.md",
+    "asignaturas/FSD/temario/9. Memorias de acceso secuencial.md",
+    "asignaturas/FSD/temario/8. Memorias RAM y CAM.md",
+    "asignaturas/FSD/temario/7. Temporizadores y relojes.md",
+    "asignaturas/FSD/temario/6. Introducción al diseño secuencial - Contadores y registros.md",
+    "asignaturas/FSD/temario/5. Exigencias computacionales de la lógica secuencial - Circuitos biestables.md",
+    "asignaturas/FSD/temario/4. Lógica combinacional programable.md",
+    "asignaturas/FSD/temario/3. Lógica combinacional (II) - Ruta de datos.md",
+    "asignaturas/FSD/temario/2. Lógica combinacional (I) - Funciones aritmético-lógicas.md",
+    "asignaturas/FSD/temario/1. Exigencias computacionales del procesamiento digital de la información.md",
     "asignaturas/FSD/recursos/Moodle Morillo.md",
+    "asignaturas/FSD/temario",
+    "asignaturas/EPED/recursos/videos Makigas.md",
     "asignaturas/GEI/README.md",
     "asignaturas/FSD/recursos",
     "asignaturas/FSD/README.md",
@@ -185,22 +198,11 @@
     "asignaturas/FFTI/temario/2.Electricidad/07. Leyes fundamentales de los circuitos eléctricos.md",
     "asignaturas/FFTI/temario/1.Electromagnetismo/05. Inducción electromagnética.md",
     "asignaturas/FFTI/temario/3.Electrónica/10. Semiconductores y diodos.md",
-    "asignaturas/FFTI/temario/3.Electrónica/12. Transmisión de la información.md",
-    "asignaturas/FFTI/temario/1.Electromagnetismo/02. Conducción y resistencia eléctrica.md",
-    "asignaturas/FFTI/temario/2.Electricidad/06. Elementos de los circuitos eléctricos.md",
-    "asignaturas/FFTI/temario/2.Electricidad/08. Circuitos eléctricos en régimen transitorio.md",
-    "asignaturas/FFTI/temario/Índice.md",
-    "asignaturas/FFTI/README.md",
     "asignaturas/FFTI/temario/3.Electrónica",
-    "asignaturas/FFTI/temario/Untitled.md",
     "asignaturas/FFTI/temario/2.Electricidad",
     "asignaturas/FFTI/temario/1.Electromagnetismo",
-    "asignaturas/FFTI/temario/3.Electrónica/11. Transistores bipolares y FET.md",
-    "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
-    "asignaturas/EPED/temario/01. Estructuras de datos básicas.md",
     "asignaturas/EPED/esquemas",
     "asignaturas/FFTI/temario/index.html",
-    "asignaturas/POO/practica/memoria",
-    "asignaturas/POO/practica"
+    "asignaturas/POO/practica/memoria"
   ]
 }
