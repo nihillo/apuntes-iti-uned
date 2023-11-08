@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
+                "file": "asignaturas/FSD/recursos/Moodle Morillo.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md"
+                "file": "asignaturas/FSD/recursos/Moodle Morillo.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
+                "file": "asignaturas/FSD/recursos/Moodle Morillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
+                "file": "asignaturas/FSD/recursos/Moodle Morillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +167,8 @@
   },
   "active": "93144fd40403dd63",
   "lastOpenFiles": [
+    "asignaturas/FSD/temario/1. Exigencias computacionales del procesamiento digital de la información.md",
+    "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
     "asignaturas/GEI/temario/P IV - Marketing/13. Investigación de mercados, segmentación y experimentación comercial.md",
     "asignaturas/GEI/temario/P IV - Marketing/12. Elementos de marketing. El mercado, la demanda y el presupuesto mercadotécnico.md",
     "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
@@ -180,7 +182,6 @@
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/4. Análisis de problemas y toma de decisiones.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
-    "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled 1.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/FSD/temario/2. Lógica combinacional (I) - Funciones aritmético-lógicas.md",
@@ -197,7 +198,6 @@
     "asignaturas/FSD/temario/5. Exigencias computacionales de la lógica secuencial - Circuitos biestables.md",
     "asignaturas/FSD/temario/4. Lógica combinacional programable.md",
     "asignaturas/FSD/temario/3. Lógica combinacional (II) - Ruta de datos.md",
-    "asignaturas/FSD/temario/1. Exigencias computacionales del procesamiento digital de la información.md",
     "asignaturas/FSD/recursos/Moodle Morillo.md",
     "asignaturas/FSD/temario",
     "asignaturas/FSD/recursos",
