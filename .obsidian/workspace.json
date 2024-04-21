@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d19e58df380c9aa6",
-        "type": "split",
+        "id": "ecaa9edb1ea7d9af",
+        "type": "tabs",
         "children": [
           {
-            "id": "1b8f27305497c76d",
-            "type": "tabs",
-            "dimension": 47.222222222222214,
-            "children": [
-              {
-                "id": "e6c543685a8e350a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "asignaturas/IC1/6. Diseño del procesador.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "0c6dd69eadceacc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asignaturas/LPP/1. Introducción a los lenguajes de programación.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "b4b14b8beea36907",
-            "type": "tabs",
-            "dimension": 52.777777777777786,
-            "children": [
-              {
-                "id": "f75afb8273e80a3f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/IC1/6. Diseño del procesador.md"
+                "file": "asignaturas/LPP/1. Introducción a los lenguajes de programación.md"
               }
             }
           },
@@ -110,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 476.5
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -126,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/IC1/6. Diseño del procesador.md",
+                "file": "asignaturas/LPP/1. Introducción a los lenguajes de programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/IC1/6. Diseño del procesador.md",
+                "file": "asignaturas/LPP/1. Introducción a los lenguajes de programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,14 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c543685a8e350a",
+  "active": "0c6dd69eadceacc9",
   "lastOpenFiles": [
+    "asignaturas/LPP/2. Procesadores de lenguajes.md",
+    "asignaturas/LPP/1. Introducción a los lenguajes de programación.md",
+    "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
+    "asignaturas/LPP/5. Lenguajes de script.md",
+    "asignaturas/LPP/4. Lenguajes de marcado. XML.md",
+    "asignaturas/IC1/6. Diseño del procesador.md",
     "asignaturas/IC1/5. Transferencia entre registros.md",
     "asignaturas/IC1/4. Unidad aritmético-lógica.md",
     "asignaturas/IC1/3. Unidad de entrada-salida.md",
     "asignaturas/IC1/2. Unidad de memoria.md",
-    "asignaturas/IC1/1. Estructuras de interconexión.md",
-    "asignaturas/IC1/6. Diseño del procesador.md",
+    "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
+    "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
+    "asignaturas/LPP",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/5. Técnicas instrumentales de planificación, programación y control.md",
     "asignaturas/IC1",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
@@ -213,12 +197,6 @@
     "asignaturas/FSD/temario/8. Memorias RAM y CAM.md",
     "asignaturas/FSD/temario/10. Lógica secuencial programable - CPLDs y FPGAs.md",
     "asignaturas/FSD/temario/9. Memorias de acceso secuencial.md",
-    "asignaturas/FSD/temario/7. Temporizadores y relojes.md",
-    "asignaturas/FSD/temario/5. Exigencias computacionales de la lógica secuencial - Circuitos biestables.md",
-    "asignaturas/GEI/temario/P II - Finanzas/8. Las fuentes de financiación y su selección. El coste del capital.md",
-    "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
-    "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/4. Análisis de problemas y toma de decisiones.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
@@ -226,7 +204,6 @@
     "asignaturas/GEI/temario/P I - La empresa y la función directiva",
     "asignaturas/GEI/temario",
     "asignaturas/FSD/temario",
-    "asignaturas/FSD/recursos",
-    "asignaturas/GEI"
+    "asignaturas/FSD/recursos"
   ]
 }
