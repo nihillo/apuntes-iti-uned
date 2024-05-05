@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
+                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md"
+                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
+                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
+                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,12 @@
   },
   "active": "0c6dd69eadceacc9",
   "lastOpenFiles": [
+    "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
     "asignaturas/LPP/5. Lenguajes de script.md",
     "asignaturas/LPP/4. Lenguajes de marcado. XML.md",
     "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
     "asignaturas/LPP/2. Procesadores de lenguajes.md",
     "asignaturas/LPP/1. Introducción a los lenguajes de programación.md",
-    "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
     "asignaturas/LED/03_Conjuntos, relaciones, funciones _ Combinatoria.md",
     "asignaturas/IC1/4. Unidad aritmético-lógica.md",
     "asignaturas/IC1/3. Unidad de entrada-salida.md",
