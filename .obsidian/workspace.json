@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
+                "file": "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md"
+                "file": "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md"
               }
             }
           },
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 383.5
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
+                "file": "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
+                "file": "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,15 @@
   },
   "active": "0c6dd69eadceacc9",
   "lastOpenFiles": [
-    "asignaturas/LPP/6. Aspectos pragmáticos de los lenguajes de programación.md",
-    "asignaturas/LPP/5. Lenguajes de script.md",
-    "asignaturas/LPP/4. Lenguajes de marcado. XML.md",
-    "asignaturas/LPP/3. Paradigmas y modelos de programación.md",
-    "asignaturas/LPP/2. Procesadores de lenguajes.md",
-    "asignaturas/LPP/1. Introducción a los lenguajes de programación.md",
+    "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
+    "asignaturas/LPP/temas/5. Lenguajes de script.md",
+    "asignaturas/LPP/examenes/sep23.md",
+    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
+    "asignaturas/LPP/examenes",
+    "asignaturas/LPP/temas",
+    "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
+    "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
+    "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
     "asignaturas/LED/03_Conjuntos, relaciones, funciones _ Combinatoria.md",
     "asignaturas/IC1/4. Unidad aritmético-lógica.md",
     "asignaturas/IC1/3. Unidad de entrada-salida.md",
@@ -196,14 +199,11 @@
     "asignaturas/GEI/temario/P III - Producción/10. La capacidad de producción.md",
     "asignaturas/FSD/temario/6. Introducción al diseño secuencial - Contadores y registros.md",
     "asignaturas/FSD/temario/8. Memorias RAM y CAM.md",
-    "asignaturas/FSD/temario/10. Lógica secuencial programable - CPLDs y FPGAs.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
     "asignaturas/GEI/temario/P II - Finanzas",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva",
-    "asignaturas/GEI/temario",
-    "asignaturas/FSD/temario",
-    "asignaturas/FSD/recursos"
+    "asignaturas/GEI/temario"
   ]
 }
