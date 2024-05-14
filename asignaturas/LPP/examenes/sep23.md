@@ -51,3 +51,20 @@ Por tanto, el número de oraciones posibles es 2^5 = 32.
 		- d
 
 ### 2.b
+El análisis sintáctico ascendente es un procedimiento de análisis sintáctico por el cual se construye el árbol de análisis sintáctico desde las hojas a la raíz, recorriendo las cadenas de izquierda a derecha y sustituyendo durante el proceso aquellos fragmentos en que se identifiquen consecuentes de las reglas de producción por los antecedentes de estas, hasta llegar al símbolo inicial de la gramática que será la raíz del árbol
+Se corresponde con un recorrido en postorden, ya que primero se reconocen los hijos y luego, mediante reducciones, se reconoce el padre.
+A estos métodos de análisis Shift-reduce (desplazar-reducir). Se conoce así porque durante el análisis, en cada iteración, se tiene la cadena de entrada y una pila en la que se van acumulando los estados que se han procesado de ella, leyendo desde la izquierda. Las operaciones que se realizan en cada paso son, o bien un desplazamiento del primer símbolo de la cadena de entrada hacia la pila (shift) o bien una reducción de lo que tengamos en la cima de la pila al antecedente de su regla de producción correspondiente (reduce).
+Los métodos de análisis sintáctico ascendente (LR) permiten reconocer la mayoría de las construcciones de los lenguajes de programación y son más potentes que los descendentes (LL).
+
+## 3
+### 3.a
+```Prolog
+antepasado(X,Y) :-
+	hijo(Y,X).
+	
+antepasado(X,Y) :-
+	hijo(Y,Z),
+	antepasado(X,Z).
+```
+
+### 3.b
