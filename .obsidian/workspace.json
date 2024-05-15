@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,13 @@
   },
   "active": "0c6dd69eadceacc9",
   "lastOpenFiles": [
-    "asignaturas/LPP/examenes/sep23.md",
+    "asignaturas/LPP/README.md",
+    "Septiembre.md",
+    "asignaturas/FFTI/README.md",
+    "asignaturas/EPED/README.md",
+    "README.md",
     "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
+    "asignaturas/LPP/examenes/sep23.md",
     "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
     "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
     "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
@@ -206,11 +211,6 @@
     "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
     "asignaturas/GEI/temario/P IV - Marketing/13. Investigación de mercados, segmentación y experimentación comercial.md",
     "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
-    "asignaturas/GEI/temario/P IV - Marketing/12. Elementos de marketing. El mercado, la demanda y el presupuesto mercadotécnico.md",
-    "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
-    "asignaturas/GEI/temario/P III - Producción/10. La capacidad de producción.md",
-    "asignaturas/FSD/temario/6. Introducción al diseño secuencial - Contadores y registros.md",
-    "asignaturas/FSD/temario/8. Memorias RAM y CAM.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
