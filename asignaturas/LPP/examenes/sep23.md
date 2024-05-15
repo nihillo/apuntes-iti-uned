@@ -81,3 +81,34 @@ La operación initial inincializa el semáforo poniendo el contador al valor que
 La operación wait permite que el proceso que la invoca continúe si el contador tiene un valor mayor que 0, decrementando el contador, o que se bloquée (añadiéndolo a la lista de bloqueados) si el valor es 0.
 La operación signal incrementa el contador si no hay procesos bloqueados, o en caso contrario ejecuta aleatoriamente uno de los procesos bloqueados, manteniendo entonces el contador inalterado.
 
+## 4
+### 4.a
+El espacio léxico es el conjunto de representaciones léxicas que pueden tener los datos de un determinado tipo en un documento. El espacio de valores es en cambio el conjuto de valores abstractos a que estas representaciones hacen referencia. Un valor del espacio de valores puede tener múltiples representaciones en el espacio léxico.
+Un elemento de valores puede tener 0 a n representaciones en el espacio léxico, mientras un elemento del espacio léxico se corresponde unívocamente con un valor.
+Así, por ejemplo, el valor numérico (de tipo xs:float) 2.56, puede tener numerosas representaciones en el espacio léxico de xs:float, como pueden ser por ejemplo "02.56", "2.560", etc. 
+Sin embargo, si hablamos de cadenas tipo xs:string, los elementos de este ejemplo, "2.56", "02.56", "2.560", etc., no son equivalentes. 
+
+### 4.b
+Las tecnologías no incluidas en XML 1.0 que permiten establecer vínculos entre documentos son:
+- XPointer
+  Es una extensión de XPath que permite crear identificadores a fragmentos de un documento con el propósito de crear vínculos hacia ellos. Un vínculo se crea de la forma *documento.xml#xpointer(\<expresión XPath>)*. 
+  Se pueden concatenar expresiones xpointer de forma que si en la primera no se encuentra un resultado se busca por la siguiente, y así sucesivamente.
+  XPointer define además los conceptos de punto, rango y localización, que permiten vincular no sólo nodos del XML sino fragmentos de este, e incluso fragmentos internos a un nodo texto.
+- XLink
+  Es un lenguaje XML que permite establecer vínculos internos y externos a documentos XML. Soporta enlaces sencillos (tipo HTML) pero también otros más complejos, mediante la inclusión de determinados atributos (href, type, role, title, show, actuate, to, from).
+  Permite establecer enlaces simples, en los que se enlaza un único recurso, y extendidos, en los que se enlaza un número arbitrario de recursos.
+
+## 5
+### 5.a
+El principio de ortogonalidad indica que las características de un lenguaje y sus posibles combinaciones deberían comportarse de forma homogénea independientemente del contexto.
+Un ejemplo de ortogonalidad relacionado con los conceptos de tipo y función es el que se describe a continuación.
+El tipo hace referencia a la constitución de una determinada estructura de datos, sus atributos y las operaciones que se pueden realizar sobre ella. Una función es una construcción que recibe determinados datos de entrada y devuelve un dato de salida. Pues bien, para cumplir con el principio de ortogonalidad, no debería imponerse una restricción a los tipos de datos que una función puede recibir o devolver. Un lenguaje que viola este principio en el aspecto concreto dado en este ejemplo es Pascal, que no permite que una función devuelva registros.
+
+### 5.b
+Un array es una estructura secuencial de datos de longitud fija y donde los datos contenidos son del mismo tipo (aunque estas dos restricciones no se dan en algunos lenguajes).
+En general, cada uno de los datos contenidos en un array se referencian por su posición o índice. Un array asociativo, sin embargo, es un tipo particular de array en que los elementos se referencian por una clave que asignamos, en lugar de por su índice.
+Un ejemplo de array asociativo en PHP es el siguiente:
+
+```PHP
+$array = ('clave1' => 'valor1', 'clave2' => 'valor2', 'clave3' => 'valor3');
+```

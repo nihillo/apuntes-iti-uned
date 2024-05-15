@@ -10,28 +10,45 @@
           {
             "id": "0c6dd69eadceacc9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "94af9ee0b6e659be",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "asignaturas/LPP/examenes/sep23.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3441e9475db01d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md"
               }
             }
           },
@@ -115,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,25 +196,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c6dd69eadceacc9",
+  "active": "3441e9475db01d5c",
   "lastOpenFiles": [
-    "asignaturas/LPP/temas/3..md",
+    "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
+    "asignaturas/LPP/examenes/sep23.md",
+    "asignaturas/LPP/temas/5. Lenguajes de script.md",
+    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
+    "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
     "README.md",
+    "asignaturas/LPP/temas/3..md",
     "asignaturas/LPP/temas/1..md",
     "asignaturas/LPP/README.md",
     "Septiembre.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/EPED/README.md",
     "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
-    "asignaturas/LPP/examenes/sep23.md",
     "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
-    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
     "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
-    "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
-    "asignaturas/LPP/temas/5. Lenguajes de script.md",
     "asignaturas/LPP/examenes",
     "asignaturas/LPP/temas",
-    "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
     "asignaturas/LED/03_Conjuntos, relaciones, funciones _ Combinatoria.md",
     "asignaturas/IC1/4. Unidad aritmético-lógica.md",
     "asignaturas/IC1/3. Unidad de entrada-salida.md",
