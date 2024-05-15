@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,8 @@
   },
   "active": "0c6dd69eadceacc9",
   "lastOpenFiles": [
-    "asignaturas/LPP/temas/1..md",
     "asignaturas/LPP/README.md",
+    "asignaturas/LPP/temas/1..md",
     "asignaturas/LPP/temas/3..md",
     "README.md",
     "Septiembre.md",
