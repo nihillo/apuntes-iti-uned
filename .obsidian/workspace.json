@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "asignaturas/LPP/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "asignaturas/LPP/README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "asignaturas/LPP/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "asignaturas/LPP/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +181,13 @@
   },
   "active": "0c6dd69eadceacc9",
   "lastOpenFiles": [
+    "asignaturas/LPP/temas/1..md",
     "asignaturas/LPP/README.md",
+    "asignaturas/LPP/temas/3..md",
+    "README.md",
     "Septiembre.md",
     "asignaturas/FFTI/README.md",
     "asignaturas/EPED/README.md",
-    "README.md",
     "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
     "asignaturas/LPP/examenes/sep23.md",
     "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
@@ -209,8 +211,6 @@
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
     "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
-    "asignaturas/GEI/temario/P IV - Marketing/13. Investigación de mercados, segmentación y experimentación comercial.md",
-    "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
