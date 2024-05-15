@@ -68,3 +68,16 @@ antepasado(X,Y) :-
 ```
 
 ### 3.b
+Existen tres tipos de sincronización de procesos en la programación concurrente: 
+- Sincronización condicional: un determinado proceso debe esperar a que se active una determinada condición que sólo puede ser activada por otro proceso. 
+- Exclusión mutua: se da cuando los procesos compiten por el acceso a un recurso compartido que sólo se puede usar por un proceso a la vez. La sección crítica es el conjunto de instrucciones que sólo pueden ser ejectuadas por un proceso a la vez. Los procesos deben sincronizarse de forma que cuando está siendo ejecutada por uno, los demás que desean acceder a ella deben esperar.
+- Sincronización de barrera: tipo especial de sincronización que se da para la casuística en que un conjunto de procesos ejecutan una serie de acciones de forma secuencial, de tal forma que una determinada acción no puede ser ejecutada por ningún proceso hasta que no se haya ejecutado la anterior por todos ellos.
+Hay diferentes herramientas que pueden usar los lenguajes para la sincronización de procesos. Una de las más básicas y conocidas es el uso de semáforos.
+Un semáforo es un tipo abstracto de datos que contiene los siguientes atributos
+- un contador de valores positivos, incluido el 0
+- una lista de procesos asociados
+- una serie de operaciones: initial, wait y signal
+La operación initial inincializa el semáforo poniendo el contador al valor que se indique.
+La operación wait permite que el proceso que la invoca continúe si el contador tiene un valor mayor que 0, decrementando el contador, o que se bloquée (añadiéndolo a la lista de bloqueados) si el valor es 0.
+La operación signal incrementa el contador si no hay procesos bloqueados, o en caso contrario ejecuta aleatoriamente uno de los procesos bloqueados, manteniendo entonces el contador inalterado.
+
