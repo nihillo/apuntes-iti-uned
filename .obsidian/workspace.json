@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "94af9ee0b6e659be",
+            "id": "3441e9475db01d5c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/examenes/sep23.md",
+                "file": "asignaturas/LPP/examenes/jun23-2.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "3441e9475db01d5c",
+            "id": "1e0a4976fd56a9e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md",
+                "file": "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md"
+                "file": "asignaturas/LPP/temas/2. Procesadores de lenguajes.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md",
+                "file": "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/temas/5. Lenguajes de script.md",
+                "file": "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +196,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3441e9475db01d5c",
+  "active": "1e0a4976fd56a9e6",
   "lastOpenFiles": [
     "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
+    "asignaturas/LPP/examenes/jun23-2.md",
+    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
+    "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
     "asignaturas/LPP/examenes/sep23.md",
     "asignaturas/LPP/temas/5. Lenguajes de script.md",
-    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
     "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
     "README.md",
     "asignaturas/LPP/temas/3..md",
@@ -211,7 +213,6 @@
     "asignaturas/FFTI/README.md",
     "asignaturas/EPED/README.md",
     "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
-    "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
     "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
     "asignaturas/LPP/examenes",
     "asignaturas/LPP/temas",
@@ -227,7 +228,6 @@
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
-    "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
