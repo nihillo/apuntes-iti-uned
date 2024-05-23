@@ -22,33 +22,21 @@
             }
           },
           {
-            "id": "1e0a4976fd56a9e6",
+            "id": "a3511cb33825b93b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-2.md",
+                "file": "asignaturas/LPP/examenes/jun23-1.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a3511cb33825b93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/LPP/examenes/jun23-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-2.md"
+                "file": "asignaturas/LPP/examenes/jun23-1.md"
               }
             }
           },
@@ -87,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"asignaturas/LPP/temas/\" ascendente",
+                "query": "path:\"asignaturas/LPP/temas/\" abstract ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-2.md",
+                "file": "asignaturas/LPP/examenes/jun23-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-2.md",
+                "file": "asignaturas/LPP/examenes/jun23-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +187,12 @@
   },
   "active": "a3511cb33825b93b",
   "lastOpenFiles": [
-    "asignaturas/LPP/examenes/Untitled.md",
+    "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
+    "asignaturas/LPP/examenes/jun23-1.md",
     "asignaturas/LPP/examenes/jun23-2.md",
+    "asignaturas/LPP/examenes/Untitled.md",
     "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
     "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
-    "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
     "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
     "asignaturas/LPP/examenes/sep23.md",
     "asignaturas/LPP/temas/5. Lenguajes de script.md",
@@ -227,7 +217,6 @@
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/5. Técnicas instrumentales de planificación, programación y control.md",
     "asignaturas/IC1",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
