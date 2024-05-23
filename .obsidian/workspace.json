@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"asignaturas/LPP/temas/\" EBNF",
+                "query": "path:\"asignaturas/LPP/temas/\" predicc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
