@@ -10,25 +10,23 @@
           {
             "id": "eb47e0d5eca49354",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "a3511cb33825b93b",
+            "id": "5aa3939896b56ad0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-1.md",
+                "file": "asignaturas/LPP/examenes/sep23-res.md",
                 "mode": "source",
                 "source": false
               },
@@ -65,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-1.md"
+                "file": "asignaturas/LPP/examenes/sep23-res.md"
               }
             }
           },
@@ -75,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"asignaturas/LPP/temas/\" abstract ",
+                "query": "path:\"asignaturas/LPP/temas/\" EBNF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-1.md",
+                "file": "asignaturas/LPP/examenes/sep23-res.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/examenes/jun23-1.md",
+                "file": "asignaturas/LPP/examenes/sep23-res.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,15 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3511cb33825b93b",
+  "active": "5aa3939896b56ad0",
   "lastOpenFiles": [
     "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
+    "asignaturas/LPP/examenes/sep23-res.md",
+    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
+    "asignaturas/LPP/examenes/Untitled 1.md",
     "asignaturas/LPP/examenes/jun23-1.md",
     "asignaturas/LPP/examenes/jun23-2.md",
-    "asignaturas/LPP/examenes/Untitled.md",
     "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
     "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
-    "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
     "asignaturas/LPP/examenes/sep23.md",
     "asignaturas/LPP/temas/5. Lenguajes de script.md",
     "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
@@ -216,7 +214,6 @@
     "asignaturas/LPP",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/5. Técnicas instrumentales de planificación, programación y control.md",
     "asignaturas/IC1",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
     "asignaturas/GEI/temario/P III - Producción",
