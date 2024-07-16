@@ -4,37 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "ecaa9edb1ea7d9af",
-        "type": "tabs",
+        "id": "b1cd1fa0894457c0",
+        "type": "split",
         "children": [
           {
-            "id": "eb47e0d5eca49354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
-                "mode": "source",
-                "source": false
+            "id": "6fc6055c446f22a0",
+            "type": "tabs",
+            "dimension": 59.44444444444444,
+            "children": [
+              {
+                "id": "bb47ec34218c2697",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "5aa3939896b56ad0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asignaturas/LPP/examenes/sep23-res.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
+            "id": "ce9a498ce369ffc4",
+            "type": "tabs",
+            "dimension": 40.55555555555556,
+            "children": [
+              {
+                "id": "2c76f07cbe524d5b",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -63,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/LPP/examenes/sep23-res.md"
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md"
               }
             }
           },
@@ -98,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/LPP/examenes/sep23-res.md",
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/LPP/examenes/sep23-res.md",
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,18 +190,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aa3939896b56ad0",
+  "active": "bb47ec34218c2697",
   "lastOpenFiles": [
+    "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
+    "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
+    "asignaturas/IC1/2. Unidad de memoria.md",
+    "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
+    "asignaturas/IC1/6. Diseño del procesador.md",
+    "asignaturas/IC1/5. Transferencia entre registros.md",
+    "asignaturas/IC1/4. Unidad aritmético-lógica.md",
+    "asignaturas/IC1/3. Unidad de entrada-salida.md",
+    "asignaturas/LPP/temas/5. Lenguajes de script.md",
+    "asignaturas/LPP/examenes/sep22-res.md",
+    "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
     "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
     "asignaturas/LPP/examenes/sep23-res.md",
     "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
     "asignaturas/LPP/examenes/Untitled 1.md",
     "asignaturas/LPP/examenes/jun23-1.md",
     "asignaturas/LPP/examenes/jun23-2.md",
-    "asignaturas/LPP/temas/3. Paradigmas y modelos de programación.md",
     "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
     "asignaturas/LPP/examenes/sep23.md",
-    "asignaturas/LPP/temas/5. Lenguajes de script.md",
     "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
     "README.md",
     "asignaturas/LPP/temas/3..md",
@@ -202,18 +218,9 @@
     "asignaturas/LPP/README.md",
     "Septiembre.md",
     "asignaturas/FFTI/README.md",
-    "asignaturas/EPED/README.md",
-    "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
     "asignaturas/LPP/examenes",
     "asignaturas/LPP/temas",
-    "asignaturas/LED/03_Conjuntos, relaciones, funciones _ Combinatoria.md",
-    "asignaturas/IC1/4. Unidad aritmético-lógica.md",
-    "asignaturas/IC1/3. Unidad de entrada-salida.md",
-    "asignaturas/IC1/6. Diseño del procesador.md",
-    "asignaturas/IC1/5. Transferencia entre registros.md",
-    "asignaturas/IC1/2. Unidad de memoria.md",
     "asignaturas/LPP",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/5. Técnicas instrumentales de planificación, programación y control.md",
     "asignaturas/IC1",
     "asignaturas/GEI/temario/P III - Producción/Untitled",
     "asignaturas/GEI/temario/P IV - Marketing",
