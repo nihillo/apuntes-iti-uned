@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md"
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
+                "file": "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,7 @@
   },
   "active": "bb47ec34218c2697",
   "lastOpenFiles": [
+    "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
     "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
     "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
     "asignaturas/IC1/2. Unidad de memoria.md",
@@ -194,7 +195,6 @@
     "asignaturas/LPP/temas/1..md",
     "asignaturas/LPP/README.md",
     "Septiembre.md",
-    "asignaturas/FFTI/README.md",
     "asignaturas/LPP/examenes",
     "asignaturas/LPP/temas",
     "asignaturas/LPP",
