@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
+                "file": "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md"
+                "file": "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
+                "file": "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
+                "file": "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,20 @@
   },
   "active": "bb47ec34218c2697",
   "lastOpenFiles": [
+    "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
+    "asignaturas/GEI/temario/P IV - Marketing/13. Investigación de mercados, segmentación y experimentación comercial.md",
+    "asignaturas/GEI/temario/P IV - Marketing/12. Elementos de marketing. El mercado, la demanda y el presupuesto mercadotécnico.md",
+    "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
+    "asignaturas/GEI/temario/P III - Producción/10. La capacidad de producción.md",
+    "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
+    "asignaturas/GEI/temario/P II - Finanzas/8. Las fuentes de financiación y su selección. El coste del capital.md",
+    "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
+    "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/5. Técnicas instrumentales de planificación, programación y control.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/4. Análisis de problemas y toma de decisiones.md",
+    "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
-    "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
-    "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
     "asignaturas/IC1/2. Unidad de memoria.md",
     "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
     "asignaturas/IC1/6. Diseño del procesador.md",
@@ -187,14 +195,6 @@
     "asignaturas/LPP/temas/2. Procesadores de lenguajes.md",
     "asignaturas/LPP/examenes/sep23-res.md",
     "asignaturas/LPP/temas/1. Introducción a los lenguajes de programación.md",
-    "asignaturas/LPP/examenes/Untitled 1.md",
-    "asignaturas/LPP/examenes/jun23-1.md",
-    "asignaturas/LPP/examenes/jun23-2.md",
-    "asignaturas/LPP/temas/4. Lenguajes de marcado. XML.md",
-    "asignaturas/LPP/examenes/sep23.md",
-    "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
-    "README.md",
-    "asignaturas/LPP/temas/3..md",
     "asignaturas/LPP/examenes",
     "asignaturas/LPP/temas",
     "asignaturas/LPP",
