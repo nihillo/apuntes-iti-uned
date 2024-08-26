@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc6055c446f22a0",
+        "id": "22c8990e28a23a59",
         "type": "tabs",
         "children": [
           {
-            "id": "bb47ec34218c2697",
+            "id": "0e745814e2a635bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb47ec34218c2697",
+  "active": "0e745814e2a635bc",
   "lastOpenFiles": [
-    "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
     "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
+    "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
     "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
     "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
