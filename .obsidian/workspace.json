@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"utilidad\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e745814e2a635bc",
+  "active": "27a553df6eb3ad06",
   "lastOpenFiles": [
     "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
     "asignaturas/GEI/temario/P III - Producción/10. La capacidad de producción.md",
