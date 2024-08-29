@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e745814e2a635bc",
+  "active": "27a553df6eb3ad06",
   "lastOpenFiles": [
     "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
     "asignaturas/GEI/temario/P I - La empresa y la función directiva/4. Análisis de problemas y toma de decisiones.md",
