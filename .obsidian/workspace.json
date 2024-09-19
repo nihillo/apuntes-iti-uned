@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/C/2. Variables y constantes.md",
+                "file": "misc/C/6. Estructuras de agrupamiento de variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/C/2. Variables y constantes.md"
+                "file": "misc/C/6. Estructuras de agrupamiento de variables.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/C/2. Variables y constantes.md",
+                "file": "misc/C/6. Estructuras de agrupamiento de variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/C/2. Variables y constantes.md",
+                "file": "misc/C/6. Estructuras de agrupamiento de variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,14 +169,14 @@
   },
   "active": "5627ff9e667faf54",
   "lastOpenFiles": [
+    "misc/C/4. Proposiciones para el control de flujo de programa.md",
+    "misc/C/6. Estructuras de agrupamiento de variables.md",
+    "misc/C/2. Variables y constantes.md",
     "misc/C/1. Introducción.md",
     "misc/C/8. Funciones de manejo de strings.md",
     "misc/C/7. Punteros (pointers).md",
-    "misc/C/6. Estructuras de agrupamiento de variables.md",
     "misc/C/5. Funciones.md",
-    "misc/C/4. Proposiciones para el control de flujo de programa.md",
     "misc/C/3. Operadores.md",
-    "misc/C/2. Variables y constantes.md",
     "misc/C/Curso de iniciación al lenguaje C.pdf",
     "misc/C/1. Introduccción",
     "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
