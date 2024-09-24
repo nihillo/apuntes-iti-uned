@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c6bc2987efd2c3d4",
+        "id": "a4b9c2841ec34cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "5627ff9e667faf54",
+            "id": "a74449e25f33caba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/C/6. Estructuras de agrupamiento de variables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -47,9 +43,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/C/6. Estructuras de agrupamiento de variables.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/C/6. Estructuras de agrupamiento de variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/C/6. Estructuras de agrupamiento de variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,43 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5627ff9e667faf54",
+  "active": "a74449e25f33caba",
   "lastOpenFiles": [
-    "misc/C/4. Proposiciones para el control de flujo de programa.md",
-    "misc/C/6. Estructuras de agrupamiento de variables.md",
-    "misc/C/2. Variables y constantes.md",
+    "asignaturas/PREDA/7. Ramificación y poda.md",
+    "asignaturas/PREDA/6. Vuelta atrás.md",
+    "asignaturas/PREDA/5. Programación dinámica.md",
+    "asignaturas/PREDA/4. Divide y vencerás.md",
+    "asignaturas/PREDA/3. Algoritmos voraces.md",
+    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+    "asignaturas/PREDA/1. Introducción.md",
+    "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
+    "asignaturas/REDES/6. La capa física.md",
+    "asignaturas/REDES/5. La capa de enlace y las redes de área local.md",
+    "asignaturas/REDES/4. La capa de red.md",
+    "asignaturas/REDES/Untitled",
+    "asignaturas/REDES/3. La capa de transporte.md",
+    "asignaturas/REDES/2. La capa de aplicación.md",
+    "asignaturas/REDES/1. Introducción.md",
+    "asignaturas/REDES/1. Redes de computadoras e Internet.md",
+    "asignaturas/REDES/9. Redes multimedia.md",
+    "asignaturas/REDES/8. Seguridad en las redes de computadoras.md",
+    "asignaturas/REDES/7. Redes inalámbricas y móviles.md",
+    "asignaturas/REDES/6. La capa de enlace y las redes de área local.md",
+    "asignaturas/REDES/5. La capa de red - el plano de control.md",
+    "asignaturas/REDES/4. La capa de red - el plano de datos.md",
+    "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
+    "asignaturas/IC2/temario/2. Procesadores superescalares.md",
+    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
+    "asignaturas/IC2/materiales/Tutorías Nicolás Morillo.md",
+    "asignaturas/IC2/temario",
+    "asignaturas/IC2/materiales",
     "misc/C/1. Introducción.md",
-    "misc/C/8. Funciones de manejo de strings.md",
-    "misc/C/7. Punteros (pointers).md",
-    "misc/C/5. Funciones.md",
-    "misc/C/3. Operadores.md",
-    "misc/C/Curso de iniciación al lenguaje C.pdf",
-    "misc/C/1. Introduccción",
-    "asignaturas/GEI/temario/P II - Finanzas/7. Las inversiones y su selección. La rentabilidad de las inversiones.md",
-    "misc/C",
-    "misc",
-    "asignaturas/GEI/temario/P II - Finanzas/6. Elementos financieros.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/3. La dirección de los recursos humanos.md",
-    "asignaturas/GEI/temario/P III - Producción/9. Elementos productivos. El proceso de producción y el factor humano.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/4. Análisis de problemas y toma de decisiones.md",
-    "asignaturas/GEI/temario/P II - Finanzas/8. Las fuentes de financiación y su selección. El coste del capital.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/1. Empresa y empresario.md",
-    "asignaturas/GEI/temario/P III - Producción/10. La capacidad de producción.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/5. Técnicas instrumentales de planificación, programación y control.md",
-    "asignaturas/GEI/temario/P IV - Marketing/13. Investigación de mercados, segmentación y experimentación comercial.md",
-    "asignaturas/GEI/temario/P IV - Marketing/12. Elementos de marketing. El mercado, la demanda y el presupuesto mercadotécnico.md",
-    "asignaturas/GEI/temario/P IV - Marketing/14. Las variables de marketing.md",
-    "asignaturas/GEI/temario/P I - La empresa y la función directiva/2. El proceso de dirección de la empresa.md",
-    "asignaturas/LED/01_Lógica proposicional.md",
-    "asignaturas/GEI/temario/P III - Producción/11. La logística.md",
-    "asignaturas/LPP/examenes/sep23.md",
-    "asignaturas/LPP/README.md",
-    "asignaturas/LPP/temas/6. Aspectos pragmáticos de los lenguajes de programación.md",
-    "asignaturas/LPP/examenes",
-    "asignaturas/LPP/temas",
-    "asignaturas/LPP",
-    "asignaturas/IC1",
-    "asignaturas/GEI/temario/P III - Producción/Untitled",
-    "asignaturas/GEI/temario/P IV - Marketing"
+    "asignaturas/REDES",
+    "asignaturas/PREDA",
+    "asignaturas/IIS",
+    "asignaturas/IC2",
+    "asignaturas/FIA",
+    "asignaturas/DAOO",
+    "misc/C/Curso de iniciación al lenguaje C.pdf"
   ]
 }
