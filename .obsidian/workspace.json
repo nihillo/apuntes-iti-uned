@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/IC2/temario/4. Procesamiento paralelo.md"
+                "file": "asignaturas/REDES/1. Introducción.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,15 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
+    "asignaturas/REDES/2. La capa de aplicación.md",
+    "asignaturas/REDES/1. Introducción.md",
+    "misc/C/4. Proposiciones para el control de flujo de programa.md",
+    "misc/C/3. Operadores.md",
+    "misc/C/2. Variables y constantes.md",
+    "misc/C/6. Estructuras de agrupamiento de variables.md",
+    "misc/C/5. Funciones.md",
+    "misc/C/1. Introducción.md",
+    "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
     "asignaturas/IC2/temario/1. Procesadores segmentados.md",
@@ -184,18 +193,9 @@
     "asignaturas/REDES/5. La capa de enlace y las redes de área local.md",
     "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/REDES/3. La capa de transporte.md",
-    "asignaturas/REDES/2. La capa de aplicación.md",
-    "asignaturas/REDES/1. Introducción.md",
     "asignaturas/REDES/Untitled",
     "asignaturas/REDES/1. Redes de computadoras e Internet.md",
     "asignaturas/REDES/9. Redes multimedia.md",
-    "asignaturas/REDES/8. Seguridad en las redes de computadoras.md",
-    "asignaturas/REDES/7. Redes inalámbricas y móviles.md",
-    "asignaturas/REDES/6. La capa de enlace y las redes de área local.md",
-    "asignaturas/REDES/5. La capa de red - el plano de control.md",
-    "asignaturas/REDES/4. La capa de red - el plano de datos.md",
-    "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
-    "asignaturas/IC2/materiales/Tutorías Nicolás Morillo.md",
     "asignaturas/IC2/temario",
     "asignaturas/IC2/materiales",
     "asignaturas/REDES",
