@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/REDES/1. Introducción.md",
+                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/REDES/1. Introducción.md"
+                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/REDES/1. Introducción.md",
+                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/REDES/1. Introducción.md",
+                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,26 +169,26 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
-    "asignaturas/REDES/2. La capa de aplicación.md",
+    "asignaturas/PREDA/1. Introducción.md",
     "asignaturas/REDES/1. Introducción.md",
-    "misc/C/4. Proposiciones para el control de flujo de programa.md",
-    "misc/C/3. Operadores.md",
-    "misc/C/2. Variables y constantes.md",
-    "misc/C/6. Estructuras de agrupamiento de variables.md",
-    "misc/C/5. Funciones.md",
-    "misc/C/1. Introducción.md",
+    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
-    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
+    "misc/C/5. Funciones.md",
+    "misc/C/4. Proposiciones para el control de flujo de programa.md",
+    "misc/C/3. Operadores.md",
+    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+    "asignaturas/PREDA/5. Programación dinámica.md",
+    "asignaturas/PREDA/4. Divide y vencerás.md",
+    "asignaturas/REDES/2. La capa de aplicación.md",
+    "misc/C/2. Variables y constantes.md",
+    "misc/C/6. Estructuras de agrupamiento de variables.md",
+    "misc/C/1. Introducción.md",
     "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
     "asignaturas/PREDA/7. Ramificación y poda.md",
     "asignaturas/PREDA/6. Vuelta atrás.md",
-    "asignaturas/PREDA/5. Programación dinámica.md",
-    "asignaturas/PREDA/4. Divide y vencerás.md",
     "asignaturas/PREDA/3. Algoritmos voraces.md",
-    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
-    "asignaturas/PREDA/1. Introducción.md",
     "asignaturas/REDES/6. La capa física.md",
     "asignaturas/REDES/5. La capa de enlace y las redes de área local.md",
     "asignaturas/REDES/4. La capa de red.md",
