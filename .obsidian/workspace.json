@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md"
+                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +169,11 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
-    "asignaturas/PREDA/1. Introducción.md",
     "asignaturas/REDES/1. Introducción.md",
+    "misc/C/Lista videos Morillo.md",
+    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+    "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
+    "asignaturas/PREDA/1. Introducción.md",
     "asignaturas/IC2/temario/1. Procesadores segmentados.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
@@ -178,7 +181,6 @@
     "misc/C/5. Funciones.md",
     "misc/C/4. Proposiciones para el control de flujo de programa.md",
     "misc/C/3. Operadores.md",
-    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/5. Programación dinámica.md",
     "asignaturas/PREDA/4. Divide y vencerás.md",
     "asignaturas/REDES/2. La capa de aplicación.md",
@@ -194,8 +196,6 @@
     "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/REDES/3. La capa de transporte.md",
     "asignaturas/REDES/Untitled",
-    "asignaturas/REDES/1. Redes de computadoras e Internet.md",
-    "asignaturas/REDES/9. Redes multimedia.md",
     "asignaturas/IC2/temario",
     "asignaturas/IC2/materiales",
     "asignaturas/REDES",
