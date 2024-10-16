@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md"
+                "file": "asignaturas/REDES/1. Introducción.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,12 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
+    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
+    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
     "asignaturas/REDES/1. Introducción.md",
     "misc/C/Lista videos Morillo.md",
-    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "asignaturas/PREDA/1. Introducción.md",
-    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
