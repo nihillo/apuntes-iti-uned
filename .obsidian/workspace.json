@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/REDES/1. Introducción.md",
+                "file": "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introducción"
+              "title": "2. Estructuras de datos avanzadas"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
+    "asignaturas/REDES/1. Introducción.md",
     "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/1. Introducción.md",
     "asignaturas/IC2/temario/1. Procesadores segmentados.md",
-    "asignaturas/REDES/1. Introducción.md",
     "asignaturas/REDES/2. La capa de aplicación.md",
     "asignaturas/REDES/3. La capa de transporte.md",
     "misc/C/Lista videos Morillo.md",
