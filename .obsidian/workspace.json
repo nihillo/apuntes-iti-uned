@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/IC2/temario/2. Procesadores superescalares.md",
+                "file": "misc/C/5. Funciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Procesadores superescalares"
+              "title": "5. Funciones"
             }
           }
         ]
@@ -189,6 +189,10 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
+    "misc/C/4. Proposiciones para el control de flujo de programa.md",
+    "misc/C/5. Funciones.md",
+    "misc/C/6. Estructuras de agrupamiento de variables.md",
+    "asignaturas/IC2/temario/2. Procesadores superescalares.md",
     "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
     "asignaturas/IC2/Notas PED.md",
     "asignaturas/REDES/1. Introducción.md",
@@ -200,14 +204,10 @@
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
-    "asignaturas/IC2/temario/2. Procesadores superescalares.md",
-    "misc/C/5. Funciones.md",
-    "misc/C/4. Proposiciones para el control de flujo de programa.md",
     "misc/C/3. Operadores.md",
     "asignaturas/PREDA/5. Programación dinámica.md",
     "asignaturas/PREDA/4. Divide y vencerás.md",
     "misc/C/2. Variables y constantes.md",
-    "misc/C/6. Estructuras de agrupamiento de variables.md",
     "misc/C/1. Introducción.md",
     "asignaturas/IC1/1. Estructura de un computador (Estructuras de interconexión).md",
     "asignaturas/PREDA/7. Ramificación y poda.md",
