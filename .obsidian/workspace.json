@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/C/5. Funciones.md",
+                "file": "asignaturas/IC2/temario/2. Procesadores superescalares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Funciones"
+              "title": "2. Procesadores superescalares"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
-    "misc/C/4. Proposiciones para el control de flujo de programa.md",
     "misc/C/5. Funciones.md",
+    "misc/C/4. Proposiciones para el control de flujo de programa.md",
     "misc/C/6. Estructuras de agrupamiento de variables.md",
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
     "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
