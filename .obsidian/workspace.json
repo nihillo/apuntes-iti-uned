@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/5. Programación dinámica.md",
+                "file": "asignaturas/PREDA/0. Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Programación dinámica"
+              "title": "0. Info"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
+    "asignaturas/PREDA/5. Programación dinámica.md",
     "asignaturas/PREDA/0. Info.md",
     "asignaturas/IC2/materiales/Tutorías Nicolás Morillo.md",
-    "asignaturas/PREDA/5. Programación dinámica.md",
     "asignaturas/PREDA/4. Divide y vencerás.md",
     "asignaturas/PREDA/3. Algoritmos voraces.md",
     "asignaturas/REDES/0. Info.md",
