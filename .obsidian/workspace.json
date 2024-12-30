@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/7. Ramificación y poda.md",
+                "file": "asignaturas/PREDA/0. Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Ramificación y poda"
+              "title": "0. Info"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "a74449e25f33caba",
   "lastOpenFiles": [
-    "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/PREDA/7. Ramificación y poda.md",
+    "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/REDES/1. Introducción.md",
     "asignaturas/REDES/6. La capa física.md",
     "asignaturas/REDES/5. La capa de enlace y las redes de área local.md",
