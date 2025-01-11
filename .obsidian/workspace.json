@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b9c2841ec34cd5",
+        "id": "717de08eaa47d643",
         "type": "tabs",
         "children": [
           {
-            "id": "a74449e25f33caba",
+            "id": "4a32d6e270932904",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,15 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a74449e25f33caba",
+  "active": "4a32d6e270932904",
   "lastOpenFiles": [
+    "asignaturas/PREDA/0. Info.md",
+    "asignaturas/FFTI/temario/Índice.md",
+    "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
+    "asignaturas/PREDA/1. Introducción.md",
+    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/7. Ramificación y poda.md",
     "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/REDES/1. Introducción.md",
     "asignaturas/REDES/6. La capa física.md",
     "asignaturas/REDES/5. La capa de enlace y las redes de área local.md",
     "asignaturas/PREDA/5. Programación dinámica.md",
-    "asignaturas/PREDA/0. Info.md",
     "asignaturas/PREDA/6. Vuelta atrás.md",
     "asignaturas/REDES/3. La capa de transporte.md",
     "asignaturas/REDES/2. La capa de aplicación.md",
@@ -208,13 +212,9 @@
     "misc/C/5. Funciones.md",
     "misc/C/4. Proposiciones para el control de flujo de programa.md",
     "misc/C/6. Estructuras de agrupamiento de variables.md",
-    "asignaturas/PREDA/2. Estructuras de datos avanzadas.md",
     "asignaturas/IC2/Notas PED.md",
-    "asignaturas/PREDA/1. Introducción.md",
     "misc/C/Lista videos Morillo.md",
-    "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
-    "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "asignaturas/REDES/Untitled",
     "asignaturas/IC2/temario",
     "asignaturas/IC2/materiales",
