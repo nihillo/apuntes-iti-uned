@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/misc/Tutorías.md",
+                "file": "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorías"
+              "title": "2. Estructuras de datos avanzadas"
             }
           }
         ]
@@ -189,26 +189,27 @@
   },
   "active": "4a32d6e270932904",
   "lastOpenFiles": [
-    "asignaturas/PREDA/misc",
-    "asignaturas/PREDA/temario",
-    "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
+    "asignaturas/PREDA/misc/Tutorías.md",
+    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/temario/1. Introducción.md",
-    "asignaturas/PREDA/misc/Tutorías.md",
+    "asignaturas/PREDA/temario/6. Vuelta atrás.md",
+    "asignaturas/PREDA/misc/Selección de esquema.md",
+    "asignaturas/PREDA/temario/7. Ramificación y poda.md",
+    "asignaturas/PREDA/temario/5. Programación dinámica.md",
+    "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
+    "asignaturas/PREDA/misc",
+    "asignaturas/PREDA/temario",
     "asignaturas/FFTI/temario/Índice.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
-    "asignaturas/PREDA/temario/7. Ramificación y poda.md",
     "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/REDES/1. Introducción.md",
     "asignaturas/REDES/6. La capa física.md",
     "asignaturas/REDES/5. La capa de enlace y las redes de área local.md",
-    "asignaturas/PREDA/temario/5. Programación dinámica.md",
-    "asignaturas/PREDA/temario/6. Vuelta atrás.md",
     "asignaturas/REDES/3. La capa de transporte.md",
     "asignaturas/REDES/2. La capa de aplicación.md",
     "asignaturas/REDES/0. Info.md",
     "asignaturas/IC2/materiales/Tutorías Nicolás Morillo.md",
-    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
     "asignaturas/IC2/temario/1. Procesadores segmentados.md",
     "misc/C/5. Funciones.md",
@@ -223,7 +224,6 @@
     "asignaturas/PREDA",
     "asignaturas/IIS",
     "asignaturas/IC2",
-    "asignaturas/FIA",
-    "asignaturas/DAOO"
+    "asignaturas/FIA"
   ]
 }
