@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/temario/4. Divide y vencerás.md",
+                "file": "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Divide y vencerás"
+              "title": "3. Algoritmos voraces"
             }
           }
         ]
@@ -189,10 +189,11 @@
   },
   "active": "4a32d6e270932904",
   "lastOpenFiles": [
-    "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
-    "asignaturas/PREDA/misc/Tutorías.md",
     "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/temario/1. Introducción.md",
+    "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
+    "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
+    "asignaturas/PREDA/misc/Tutorías.md",
     "asignaturas/PREDA/temario/6. Vuelta atrás.md",
     "asignaturas/PREDA/misc/Selección de esquema.md",
     "asignaturas/PREDA/temario/7. Ramificación y poda.md",
@@ -201,7 +202,6 @@
     "asignaturas/PREDA/misc",
     "asignaturas/PREDA/temario",
     "asignaturas/FFTI/temario/Índice.md",
-    "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "asignaturas/REDES/4. La capa de red.md",
     "asignaturas/REDES/1. Introducción.md",
     "asignaturas/REDES/6. La capa física.md",
