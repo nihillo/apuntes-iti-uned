@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/temario/4. Divide y vencerás.md",
+                "file": "asignaturas/PREDA/misc/Selección de esquema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Divide y vencerás"
+              "title": "Selección de esquema"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "5b225c3d0f199d14",
   "lastOpenFiles": [
+    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
     "asignaturas/PREDA/misc/Tutorías.md",
     "asignaturas/PREDA/misc/Selección de esquema.md",
@@ -211,7 +212,6 @@
     "asignaturas/FFTI/README.md",
     "asignaturas/EPED/README.md",
     "asignaturas/DAOO/README.md",
-    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/temario/1. Introducción.md",
     "asignaturas/EPED/temario/03. Análisis básico de algoritmos.md",
     "asignaturas/PREDA/misc",
