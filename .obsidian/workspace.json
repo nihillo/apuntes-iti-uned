@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
+                "file": "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Estructuras de datos avanzadas"
+              "title": "3. Algoritmos voraces"
             }
           }
         ]
@@ -52,10 +52,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/REDES/1. Introducción.md"
+                "file": "asignaturas/PREDA/temario/3. Algoritmos voraces.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Introducción"
+              "title": "Outline of 3. Algoritmos voraces"
             }
           },
           {
@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,16 +188,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b225c3d0f199d14",
+  "active": "90ed72741b90b06f",
   "lastOpenFiles": [
+    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
+    "asignaturas/PREDA/temario/6. Vuelta atrás.md",
+    "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/temario/7. Ramificación y poda.md",
     "asignaturas/PREDA/misc/Selección de esquema.md",
-    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
     "asignaturas/PREDA/misc/Tutorías.md",
-    "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/temario/5. Programación dinámica.md",
-    "asignaturas/PREDA/temario/6. Vuelta atrás.md",
     "README.md",
     "asignaturas/REDES/README.md",
     "asignaturas/PREDA/README.md",
