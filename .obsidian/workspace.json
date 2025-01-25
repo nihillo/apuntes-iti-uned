@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31c2c7c11561d78a",
+        "id": "f06ce28b551c40fc",
         "type": "tabs",
         "children": [
           {
-            "id": "5b225c3d0f199d14",
+            "id": "7af91418cd5c0658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
+                "file": "asignaturas/REDES/1. Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Algoritmos voraces"
+              "title": "1. Introducción"
             }
           }
         ]
@@ -52,10 +52,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/PREDA/temario/3. Algoritmos voraces.md"
+                "file": "asignaturas/REDES/1. Introducción.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Algoritmos voraces"
+              "title": "Outline of 1. Introducción"
             }
           },
           {
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"distancia de edición\"",
+                "query": "path:\"asignaturas/REDES/\" retardo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,12 +190,12 @@
   },
   "active": "90ed72741b90b06f",
   "lastOpenFiles": [
+    "asignaturas/PREDA/misc/Selección de esquema.md",
+    "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
+    "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
     "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/temario/6. Vuelta atrás.md",
-    "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/temario/7. Ramificación y poda.md",
-    "asignaturas/PREDA/misc/Selección de esquema.md",
-    "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
     "asignaturas/PREDA/misc/Tutorías.md",
     "asignaturas/PREDA/temario/5. Programación dinámica.md",
     "README.md",
