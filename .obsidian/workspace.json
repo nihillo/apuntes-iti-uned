@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f06ce28b551c40fc",
+        "id": "e0238b4f39ccba95",
         "type": "tabs",
         "children": [
           {
-            "id": "7af91418cd5c0658",
+            "id": "319d973e4430caff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/REDES/temario/6. La capa física.md",
-                "mode": "preview",
+                "file": "asignaturas/REDES/temario/2. La capa de aplicación.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. La capa física"
+              "title": "2. La capa de aplicación"
             }
           }
         ]
@@ -53,10 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/REDES/temario/4. La capa de red.md"
+                "file": "asignaturas/REDES/temario/2. La capa de aplicación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. La capa de red"
+              "title": "Outline of 2. La capa de aplicación"
             }
           },
           {
@@ -65,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"asignaturas/REDES/temario/\" Intensidad",
+                "query": "path:\"asignaturas/IC2/temario/\" red",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,13 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7af91418cd5c0658",
+  "active": "319d973e4430caff",
   "lastOpenFiles": [
+    "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
+    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
+    "asignaturas/REDES/temario/6. La capa física.md",
     "asignaturas/REDES/temario/4. La capa de red.md",
     "asignaturas/REDES/temario/3. La capa de transporte.md",
     "asignaturas/REDES/temario/2. La capa de aplicación.md",
     "asignaturas/REDES/temario/1. Introducción.md",
-    "asignaturas/REDES/temario/6. La capa física.md",
     "asignaturas/REDES/temario/5. La capa de enlace y las redes de área local.md",
     "asignaturas/REDES/misc/Capas.md",
     "asignaturas/REDES/misc/Tutorías.md",
@@ -216,8 +221,6 @@
     "asignaturas/LED/README.md",
     "asignaturas/IIS/README.md",
     "asignaturas/IC2/README.md",
-    "asignaturas/IC1/README.md",
-    "asignaturas/GEI/README.md",
     "asignaturas/PREDA/misc",
     "asignaturas/PREDA/temario",
     "asignaturas/IC2/temario",
