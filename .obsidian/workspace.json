@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/REDES/temario/2. La capa de aplicación.md",
+                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. La capa de aplicación"
+              "title": "1. Procesadores segmentados"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/REDES/temario/2. La capa de aplicación.md",
+                "file": "asignaturas/IC2/temario/1. Procesadores segmentados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. La capa de aplicación"
+              "title": "Outline of 1. Procesadores segmentados"
             }
           },
           {
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,15 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "319d973e4430caff",
+  "active": "90ed72741b90b06f",
   "lastOpenFiles": [
-    "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
-    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
-    "asignaturas/REDES/temario/6. La capa física.md",
     "asignaturas/REDES/temario/4. La capa de red.md",
     "asignaturas/REDES/temario/3. La capa de transporte.md",
-    "asignaturas/REDES/temario/2. La capa de aplicación.md",
     "asignaturas/REDES/temario/1. Introducción.md",
+    "asignaturas/REDES/temario/6. La capa física.md",
+    "asignaturas/REDES/temario/2. La capa de aplicación.md",
+    "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
+    "asignaturas/IC2/temario/1. Procesadores segmentados.md",
     "asignaturas/REDES/temario/5. La capa de enlace y las redes de área local.md",
     "asignaturas/REDES/misc/Capas.md",
     "asignaturas/REDES/misc/Tutorías.md",
