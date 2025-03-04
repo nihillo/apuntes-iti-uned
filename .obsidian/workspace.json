@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/FIA/Bloque VI.md",
+                "file": "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción a la computación cuántica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloque VI"
+              "title": "Curso de introducción a la computación cuántica"
             }
           }
         ]
@@ -191,19 +191,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b2e66ece91f0dd6",
+  "active": "27a553df6eb3ad06",
   "lastOpenFiles": [
+    "asignaturas/FIA/Bloque VI.md",
     "asignaturas/FIA/Bloque V.md",
     "asignaturas/FIA/Bloque IV.md",
     "asignaturas/FIA/Bloque III.md",
     "asignaturas/FIA/Bloque II.md",
     "asignaturas/FIA/Bloque I.md",
-    "asignaturas/FIA/Bloque VI.md",
     "asignaturas/FIA/README.md",
-    "extension/Introduccion-Computacion-Cuantica/1. Introducción a la computación cuántica.md",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción a la computación cuántica.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
-    "extension/Introduccion-Computacion-Cuantica",
-    "extension",
+    "extension-universitaria/Introduccion-Computacion-Cuantica",
+    "extension-universitaria",
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/1. Procesadores segmentados.md",

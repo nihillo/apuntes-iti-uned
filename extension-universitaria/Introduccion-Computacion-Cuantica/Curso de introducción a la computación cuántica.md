@@ -1,0 +1,92 @@
+## Clase 1: Introducción a la computación cuántica
+- Conceptos de álgebra lineal
+	- Notación bracket
+	- Producto escalar
+	- Producto externo
+	- Espacio vectorial complejo
+	- Base de un espacio vectorial
+	- Matrices y operaciones
+	- Matriz inversa
+	- Matriz hermítica
+	- Matriz unitaria
+- Números complejos 
+	- Álgebra de números complejos
+	- Geometría de números complejos
+- Espacios vectoriales complejos
+- Mecánica cuántica y computación cuántica
+	- Qué es un computador cuántico
+	- Evolución de la teoría y tecnología cuánticas
+	- Breve historia de la computación cuántica
+	- Experimentos clave en mecánica cuántica
+		- Experimentos de Planck sobre el cuerpo negro (catástrofe ultravioleta)
+		- Experimento de la doble rendija
+- Mecánica cuántica
+	- Definición
+	- Mecáncia clásica vs. cuántica
+	- Evolución temporal -> transformaciones unitarias
+	- Probabilística, no determinista
+	- Lineal
+	- Principio de superposición
+	- Estados
+- Computación cuántica
+	- Bit clásico vs bit cuántico (qubit)
+## Clase 2: Álgebra lineal aplicada a mecánica cuántica y postulados de mecánica cuántica
+### Álgebra lineal
+- Espacio vectorial complejo
+- Matriz traspuesta
+- Matriz conjugada
+- Operación adjunto o daga
+- Multiplicación de matrices
+- Mapa lineal entre dos espacios vectoriales complejos
+- Producto cartesiano
+- Suma directa
+- Base y dimensión
+	- Combinación lineal
+	- Independencia lineal
+	- Base canónica
+	- Base estandar
+	- Dimensión
+	- Matriz de cambio de base o matriz de transición
+	- Matriz de Hadamard
+- Producto interno y espacio de Hilbert
+	- Producto interno (producto escalar)
+	- Módulo o norma
+	- Vectores ortogonales
+	- Base ortogonal, base ortonormal
+	- Función delta de Kronecker
+- Valores propios y vectores propios (eigenvalue y eigenvector)
+- Matriz Hermítica
+- Hamiltoniano del sistema
+- Matriz diagonal
+- Teorema espectral
+- Producto tensorial
+### Postulados de mecánica cuántica
+- Postulado 1
+	- Espacio de Hilbert
+- Postulado 2
+	- Evolución
+- Postulado 3
+	- Medida
+- Postulado 4
+	- Producto tensorial
+## Clase 3: Lógica cuántica
+- Qué es un simulador cuántico
+- Qué es un qubit
+- Lógica clásica, puertas y circuitos
+- Puertas cuánticas
+	- Puertas de un qubit
+		- Transformación identidad
+		- Elemento de Pauli X
+		- Elemento de Pauli Y
+		- Elemento de Pauli Z
+		- Elemento de Hadamard
+		- Elemento fase
+		- Elemento $\pi / 8$
+		- Medida
+	- Puertas de dos qubits
+		- Intercambio (exchange)
+		- CNOT (controlled not)
+		- Controlled Phase Element
+- Circuitos cuánticos
+## Clase 3: Ejemplos prácticos en qiskit
+- Ejemplos prácticos en simulador qiskit
