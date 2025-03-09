@@ -13,5 +13,13 @@ Cap. 8 libro
 - Definición 8.1: algoritmo de búsqueda completo
 - Definición 8.2: algoritmo de búsqueda admisible
 ## Métodos de búsqueda sin información
+
 ### Recorrido de árboles
+#### Primero en Anchura
+#### Primero en Profundidad
+#### Coste uniforme
+#### Búsquedas en profundidad y en anchura iterativas
+
 ### Recorrido de grafos
+#### Algoritmo general de búsqueda en grafos
+#### Búsqueda bidireccional
