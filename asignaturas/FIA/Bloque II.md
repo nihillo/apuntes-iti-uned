@@ -17,9 +17,14 @@ Cap. 8 libro
 ### Recorrido de árboles
 #### Primero en Anchura
 #### Primero en Profundidad
+- Profundidad límite
 #### Coste uniforme
+- Anchura con ABIERTA ordenada por coste
 #### Búsquedas en profundidad y en anchura iterativas
-
+- Profundidad iterativa
+	- Iteraciones sobre valor de profundidad límite, cada iteración una búsqueda en profundidad
+- Anchura iterativa
+	- Anchura límite
 ### Recorrido de grafos
 #### Algoritmo general de búsqueda en grafos
 #### Búsqueda bidireccional
