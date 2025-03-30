@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "539bfc88bbe6ce05",
+        "id": "3c121da424e202c8",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2e66ece91f0dd6",
+            "id": "3c67a0889324cb2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/FIA/Bloque II.md",
+                "file": "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios/Curso de introducción  a la computación cuántica. Ejercicios..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloque II"
+              "title": "Curso de introducción  a la computación cuántica. Ejercicios."
             }
           }
         ]
@@ -191,15 +191,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b2e66ece91f0dd6",
+  "active": "3c67a0889324cb2b",
   "lastOpenFiles": [
-    "asignaturas/FIA/Bloque I.md",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/Esquema contenidos.md",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios/Curso de introducción  a la computación cuántica. Ejercicios..md",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción a la computación cuántica.md",
+    "asignaturas/FIA/Bloque III.md",
     "asignaturas/FIA/Bloque II.md",
+    "asignaturas/FIA/Bloque I.md",
     "asignaturas/FIA/Bloque VI.md",
     "asignaturas/FIA/Bloque V.md",
-    "asignaturas/FIA/Bloque III.md",
     "asignaturas/FIA/Bloque IV.md",
-    "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción a la computación cuántica.md",
     "asignaturas/FIA/README.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "extension-universitaria/Introduccion-Computacion-Cuantica",
@@ -221,13 +224,10 @@
     "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
     "asignaturas/PREDA/temario/4. Divide y vencerás.md",
-    "asignaturas/PREDA/temario/6. Vuelta atrás.md",
-    "asignaturas/PREDA/temario/7. Ramificación y poda.md",
     "asignaturas/PREDA/misc",
     "asignaturas/PREDA/temario",
     "asignaturas/IC2/temario",
     "asignaturas/IC2/materiales",
-    "asignaturas/REDES",
-    "asignaturas/PREDA"
+    "asignaturas/REDES"
   ]
 }

@@ -1,0 +1,97 @@
+- Fundamentos matemáticos
+	- Conceptos de álgebra lineal
+		- Notación bracket (o de Dirac)
+		- Producto escalar
+		- Producto externo
+		- Espacio vectorial complejo
+		- Base de un espacio vectorial
+		- Matrices y operaciones
+		- Matriz inversa
+		- Matriz hermítica
+		- Matriz unitaria
+		- Matriz traspuesta
+		- Matriz conjugada
+		- Operación adjunto o daga
+		- Multiplicación de matrices
+	- Números complejos 
+		- Álgebra de números complejos
+		- Geometría de números complejos
+	- Espacios vectoriales complejos
+		- Mapa lineal entre dos espacios vectoriales complejos
+	- Producto cartesiano
+	- Suma directa
+	- Base y dimensión
+		- Combinación lineal
+		- Independencia lineal
+		- Base canónica
+		- Base estandar
+		- Dimensión
+		- Matriz de cambio de base o matriz de transición
+		- Matriz de Hadamard
+	- Producto interno y espacio de Hilbert
+		- Producto interno (producto escalar)
+		- Módulo o norma
+		- Vectores ortogonales
+		- Base ortogonal, base ortonormal
+		- Función delta de Kronecker
+	- Valores propios y vectores propios (eigenvalue y eigenvector)
+	- Matriz Hermítica
+	- Hamiltoniano del sistema
+	- Matriz diagonal
+	- Teorema espectral
+	- Producto tensorial
+- Conceptos básicos de mecánica cuántica
+	- Definición
+	- Mecáncia clásica vs. cuántica
+	- Conceptos
+		- Evolución temporal -> transformaciones unitarias
+		- Probabilística, no determinista
+		- Lineal
+		- Principio de superposición
+		- Estados
+	- Experimentos clave en mecánica cuántica
+		- Experimentos de Planck sobre el cuerpo negro (catástrofe ultravioleta)
+		- Experimento de la doble rendija
+	- Postulados de mecánica cuántica
+		- Postulado 1
+			- Espacio de Hilbert
+		- Postulado 2
+			- Evolución
+		- Postulado 3
+			- Medida
+		- Postulado 4
+	- Producto tensorial
+- Computación cuántica
+	- Qué es un computador cuántico
+	- Evolución de la teoría y tecnología cuánticas
+	- Breve historia de la computación cuántica
+	- Qué es un qubit
+		- Bit clásico vs bit cuántico (qubit)
+		- Esfera de Bloch
+	- Qué es un simulador cuántico
+	- Puertas cuánticas
+		- Puertas de un qubit
+			- Transformación identidad
+			- Elemento de Pauli X
+			- Elemento de Pauli Y
+			- Elemento de Pauli Z
+			- Elemento de Hadamard
+			- Elemento fase
+			- Elemento $\pi / 8$
+			- Medida
+		- Puertas de dos qubits
+			- Intercambio (exchange)
+			- CNOT (controlled not)
+			- Controlled Phase Element
+	- Circuitos cuánticos
+	- Entrelazamiento cuántico
+	- Teleportación cuántica
+	- Superdense coding
+	- Phase kickback
+- Algoritmos
+	- Algoritmo de Deutsch
+		- Algoritmo de Deutsch-Josza (generalización del algoritmo de Deutsch)
+	- Algoritmo de Grover
+	- Algoritmo de Simon
+- Uso de Qiskit
+
