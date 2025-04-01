@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios/Curso de introducción  a la computación cuántica. Ejercicios..md",
+                "file": "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción  a la computación cuántica. Ejercicios..md",
                 "mode": "source",
                 "source": false
               },
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 200
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -193,10 +193,11 @@
   },
   "active": "3c67a0889324cb2b",
   "lastOpenFiles": [
-    "extension-universitaria/Introduccion-Computacion-Cuantica/Esquema contenidos.md",
-    "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios/Curso de introducción  a la computación cuántica. Ejercicios..md",
-    "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios",
     "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción a la computación cuántica.md",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/Esquema contenidos.md",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción  a la computación cuántica. Ejercicios..md",
+    "Pasted image 20250330120119.png",
+    "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios",
     "asignaturas/FIA/Bloque III.md",
     "asignaturas/FIA/Bloque II.md",
     "asignaturas/FIA/Bloque I.md",
@@ -223,7 +224,6 @@
     "asignaturas/PREDA/misc/Selección de esquema.md",
     "asignaturas/PREDA/temario/2. Estructuras de datos avanzadas.md",
     "asignaturas/PREDA/temario/3. Algoritmos voraces.md",
-    "asignaturas/PREDA/temario/4. Divide y vencerás.md",
     "asignaturas/PREDA/misc",
     "asignaturas/PREDA/temario",
     "asignaturas/IC2/temario",
