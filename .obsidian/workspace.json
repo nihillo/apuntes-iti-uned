@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c67a0889324cb2b",
+            "id": "cc6235eee6d2ba1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
+                "file": "asignaturas/FIA/Bloque VI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte 1. Diseño orientado a objetos"
+              "title": "Bloque VI"
             }
           }
         ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"asignaturas/IC2/temario/\" red",
+                "query": "path:\"asignaturas/FIA/\" árbol",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5
+    "width": 336.5
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -191,10 +191,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c67a0889324cb2b",
+  "active": "27a553df6eb3ad06",
   "lastOpenFiles": [
-    "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
+    "asignaturas/FIA/Bloque II.md",
+    "asignaturas/FIA/Bloque IV.md",
+    "asignaturas/FIA/Bloque V.md",
+    "asignaturas/FIA/Bloque VI.md",
+    "asignaturas/FIA/Bloque I.md",
+    "asignaturas/FIA/Bloque III.md",
     "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
+    "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
     "asignaturas/DAOO/README.md",
     "asignaturas/FIA/README.md",
     "extension-universitaria/Introduccion-Computacion-Cuantica/Ejercicios boletín 2.md",
@@ -210,12 +216,6 @@
     "extension-universitaria/Introduccion-Computacion-Cuantica/Esquema contenidos.md",
     "Pasted image 20250330120119.png",
     "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios",
-    "asignaturas/FIA/Bloque III.md",
-    "asignaturas/FIA/Bloque II.md",
-    "asignaturas/FIA/Bloque I.md",
-    "asignaturas/FIA/Bloque VI.md",
-    "asignaturas/FIA/Bloque V.md",
-    "asignaturas/FIA/Bloque IV.md",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "extension-universitaria/Introduccion-Computacion-Cuantica",
     "extension-universitaria",
