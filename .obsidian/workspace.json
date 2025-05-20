@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/FIA/Notas/Paradigmas y técnicas.md",
+                "file": "asignaturas/FIA/Temario/Bloque IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paradigmas y técnicas"
+              "title": "Bloque IV"
             }
           }
         ]
@@ -193,14 +193,14 @@
   },
   "active": "cc6235eee6d2ba1d",
   "lastOpenFiles": [
-    "asignaturas/FIA/Temario/Bloque VI.md",
-    "asignaturas/FIA/Notas/Paradigmas y técnicas.md",
-    "asignaturas/FIA/Notas",
-    "asignaturas/FIA/Temario/Bloque IV.md",
-    "asignaturas/FIA/Temario/Bloque I.md",
-    "asignaturas/FIA/Temario",
     "asignaturas/FIA/Temario/Bloque III.md",
+    "asignaturas/FIA/Temario/Bloque IV.md",
     "asignaturas/FIA/Temario/Bloque II.md",
+    "asignaturas/FIA/Temario/Bloque I.md",
+    "asignaturas/FIA/Notas/Paradigmas y técnicas.md",
+    "asignaturas/FIA/Temario/Bloque VI.md",
+    "asignaturas/FIA/Notas",
+    "asignaturas/FIA/Temario",
     "asignaturas/FIA/Temario/Bloque V.md",
     "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
     "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
