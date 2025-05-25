@@ -1,26 +1,49 @@
 ## Tema 5. Patrones de creación
-- Abstract Factory
-- Builder
-- Factory Method
-- Prototype
-- Singleton
+### Abstract Factory
+### Builder
+### Factory Method
+###  Prototype
+### Singleton
 ## Tema 6. Patrones estructurales
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
+### Adapter
+### Bridge
+### Composite
+El objetivo del patrón Composite es ofrecer un marco de diseño de una composición de objetos de profundidad variable, diseño que estará basado en un árbol.
+Por otro lado, esta composición está encapsulada respecto a los clientes de los objetos que pueden interactuar sin tener que conocer la profundidad de la composición.
+### Decorator
+El objetivo del patrón Decorator es agregar dinámicamente funcionalidades suplementarias a un objeto. Esta agregación de funcionalidades no modifica la interfaz del objeto y es transparente de cara a los clientes.
+El patrón Decorator constituye una alternativa respecto a la creación de una subclase para enriquecer el objeto.
+#### Dominios de aplicación
+- Sistema agrega dinámicamente funcionalidades a objeto sin modificar su interfaz
+- Sistema gestiona funcionalidades que pueden eliminarse dinámicamente
+- Uso de herencia para extender objetos no es práctico, puede ocurrir cuando la jerarquía ya es de por sí compleja
+### Facade
+El objetivo del patrón Facade es agrupar las interfaces de un conjunto de objetos en una interfaz unificada volviendo a este conjunto más fácil de usar por parte de un cliente.
+El patrón Facade encapsula la interfaz de cada objeto considerada como interfaz de bajo nivel en una interfaz única de nivel más elevado. La construcción de la interfaz unificada puede necesitar implementar métodos destinados a componer las interfaces de bajo nivel.
+### Flyweight
+El objetivo del patrón Flyweight es compartir de forma eficaz un conjunto de objetos de granularidad fina.
+#### Participantes
+- FabricaFlyweight
 - Flyweight
-- Proxy
+- Cliente
+### Proxy
 ## Tema 7. Patrones de comportamiento
-- Chain of responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template method
-- Visitor
+### Chain of responsibility
+### Command
+El patrón Command tiene como objetivo transformar una solicitud en un objeto, facilitando operaciones tales como la anulación, el encolamiento de solicitudes y su seguimiento.
+### Interpreter
+### Iterator
+El patrón Iterator proporciona un acceso secuencial a a una colección de objetos a los clientes sin que éstos tengan que preocuparse de la implementación de esta colección.
+### Mediator
+El patrón Mediator tiene como objetivo construir un objeto cuya vocación es la gestión y el control de las interacciones en un conjunto de objetos sin que sus elementos deban conocerse mutuamente
+### Memento
+### Observer
+El patrón Observer tiene como objetivo construir una dependencia entre un sujeto y los observadores de modo que cada modificación del sujeto sea notificada a los observadores para que puedan actualizar su estado.
+### State
+El patrón State permite a un objeto adaptar su comportamiento en función de su estado interno.
+
+### Strategy
+El patrón strategy tiene como objetivo adaptar el comportamiento y los algoritmos de un objeto en función de una necesidad sin cambiar las interacciones de este objeto con los clientes.
+### Template method
+### Visitor
+

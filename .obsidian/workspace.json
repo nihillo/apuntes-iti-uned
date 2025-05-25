@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/FIA/Bloque VI.md",
+                "file": "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloque VI"
+              "title": "Outline of Parte 2. Patrones de diseño"
             }
           },
           {
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,10 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc6235eee6d2ba1d",
+  "active": "90ed72741b90b06f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pasted image 20250403070744.png",
+    "Pasted image 20250403070435.png",
+    "Pasted image 20250403070155.png",
+    "Pasted image 20250330120119.png",
     "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
+    "Untitled.md",
     "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
     "asignaturas/FIA/Temario/Bloque IV.md",
     "asignaturas/FIA/Temario/Bloque III.md",
@@ -212,13 +217,9 @@
     "Pasted image 20250403073021.png",
     "Pasted image 20250403070950.png",
     "Pasted image 20250403070933.png",
-    "Pasted image 20250403070744.png",
     "Pasted image 20250403070620.png",
-    "Pasted image 20250403070435.png",
-    "Pasted image 20250403070155.png",
     "extension-universitaria/Introduccion-Computacion-Cuantica/Curso de introducción a la computación cuántica.md",
     "extension-universitaria/Introduccion-Computacion-Cuantica/Esquema contenidos.md",
-    "Pasted image 20250330120119.png",
     "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios",
     "asignaturas/IC2/temario/3. Procesadores VLIW y procesadores vectoriales.md",
     "extension-universitaria/Introduccion-Computacion-Cuantica",
@@ -231,7 +232,6 @@
     "asignaturas/REDES/temario/1. Introducción.md",
     "asignaturas/REDES/temario/6. La capa física.md",
     "asignaturas/REDES/temario/2. La capa de aplicación.md",
-    "asignaturas/REDES/temario/5. La capa de enlace y las redes de área local.md",
     "asignaturas/REDES/misc",
     "asignaturas/REDES/temario",
     "asignaturas/PREDA/misc",
