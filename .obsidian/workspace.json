@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c121da424e202c8",
+        "id": "122e6f8ea7fa04cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6235eee6d2ba1d",
+            "id": "4c82db7928e3d0cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,15 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ed72741b90b06f",
+  "active": "4c82db7928e3d0cc",
   "lastOpenFiles": [
+    "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
+    "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
     "Pasted image 20250403070744.png",
     "Pasted image 20250403070435.png",
     "Pasted image 20250403070155.png",
     "Pasted image 20250330120119.png",
-    "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
     "Untitled.md",
-    "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
     "asignaturas/FIA/Temario/Bloque IV.md",
     "asignaturas/FIA/Temario/Bloque III.md",
     "asignaturas/FIA/Temario/Bloque II.md",

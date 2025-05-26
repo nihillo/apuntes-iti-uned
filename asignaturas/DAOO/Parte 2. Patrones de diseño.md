@@ -27,8 +27,11 @@ El objetivo del patrón Flyweight es compartir de forma eficaz un conjunto de ob
 - Flyweight
 - Cliente
 ### Proxy
+El patrón Proxy tiene como objetivo el diseño de un objeto que sustituye a otro objeto (el sujeto) y que controla el acceso.
+El objeto que realiza la sustitución posee la misma interfaz que el sujeto, volviendo la sustitución transparente de cara a los clientes.
 ## Tema 7. Patrones de comportamiento
-### Chain of responsibility
+### Chain of Responsibility
+El patrón Chain of Responsibility construye una cadena de objetos tal que si un objeto de la cadena no puede responder a la solicitud, puede transmitirla a su sucesor y así sucesivamente hasta que uno de los objetos de la cadena responde.
 ### Command
 El patrón Command tiene como objetivo transformar una solicitud en un objeto, facilitando operaciones tales como la anulación, el encolamiento de solicitudes y su seguimiento.
 ### Interpreter
@@ -37,6 +40,7 @@ El patrón Iterator proporciona un acceso secuencial a a una colección de objet
 ### Mediator
 El patrón Mediator tiene como objetivo construir un objeto cuya vocación es la gestión y el control de las interacciones en un conjunto de objetos sin que sus elementos deban conocerse mutuamente
 ### Memento
+El patrón Memento tiene como objetivo salvaguardar y restablecer el estado de un objeto sin violar la encapsulación.
 ### Observer
 El patrón Observer tiene como objetivo construir una dependencia entre un sujeto y los observadores de modo que cada modificación del sujeto sea notificada a los observadores para que puedan actualizar su estado.
 ### State
@@ -45,5 +49,10 @@ El patrón State permite a un objeto adaptar su comportamiento en función de su
 ### Strategy
 El patrón strategy tiene como objetivo adaptar el comportamiento y los algoritmos de un objeto en función de una necesidad sin cambiar las interacciones de este objeto con los clientes.
 ### Template method
+El patrón Template Method permite delegar en las subclases ciertas etapas de una de las operaciones de un objeto, estando estas etapas descritas en las subclases.
+#### Participantes
+- Clase Abstracta
+- Clase Concreta
 ### Visitor
+El patrón Visitor construye una operación que debe realizarse sobre los elementos de un conjunto de objetos. Esto permite agregar nuevas operaciones sin modificar las clases de estos objetos.
 
