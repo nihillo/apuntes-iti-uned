@@ -1,6 +1,7 @@
 ## Tema 5. Patrones de creación
 ### Abstract Factory
 ### Builder
+El objetivo del patrón Builder es abstraer la construcción de objetos complejos de su implementación, de modo que un cliente pueda crear objetos complejos sin tener que preocuparse de las diferencias en su implantación.
 ### Factory Method
 ###  Prototype
 ### Singleton
@@ -10,6 +11,11 @@
 ### Composite
 El objetivo del patrón Composite es ofrecer un marco de diseño de una composición de objetos de profundidad variable, diseño que estará basado en un árbol.
 Por otro lado, esta composición está encapsulada respecto a los clientes de los objetos que pueden interactuar sin tener que conocer la profundidad de la composición.
+#### Participantes:
+- Componente - clase abstracta que contiene la interfas de los objetos de la composición, implementa los métodos comunes e introduce la firma de los métodos que gestionan la composición agregando o suprimiendo componentes
+- Hoja - clase concreta que describe hojas de la composición
+- Compuesto - clase concreta que describe objetos compuestos de la jerarquía. Posee una asociación de agregación con la clase componente.
+- Cliente - objetos que acceden a los objetos de la composición y los manipulan.
 ### Decorator
 El objetivo del patrón Decorator es agregar dinámicamente funcionalidades suplementarias a un objeto. Esta agregación de funcionalidades no modifica la interfaz del objeto y es transparente de cara a los clientes.
 El patrón Decorator constituye una alternativa respecto a la creación de una subclase para enriquecer el objeto.
