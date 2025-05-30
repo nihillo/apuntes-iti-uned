@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/IIS/Esquema general.md",
+                "file": "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esquema general"
+              "title": "Parte 2. Patrones de diseño"
             }
           }
         ]
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c82db7928e3d0cc",
+  "active": "90ed72741b90b06f",
   "lastOpenFiles": [
     "asignaturas/IIS/Esquema general.md",
     "asignaturas/DAOO/Parte 2. Patrones de diseño.md",

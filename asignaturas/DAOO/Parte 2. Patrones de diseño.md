@@ -41,6 +41,7 @@ El patrón Chain of Responsibility construye una cadena de objetos tal que si un
 ### Command
 El patrón Command tiene como objetivo transformar una solicitud en un objeto, facilitando operaciones tales como la anulación, el encolamiento de solicitudes y su seguimiento.
 ### Interpreter
+El patrón Interpreter proporciona un marco para representar mediante objetos la gramática de un lenguaje con el fin de evaluar, interpretándolas, expresiones escritas en este lenguaje.
 ### Iterator
 El patrón Iterator proporciona un acceso secuencial a a una colección de objetos a los clientes sin que éstos tengan que preocuparse de la implementación de esta colección.
 ### Mediator
