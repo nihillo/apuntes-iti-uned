@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ed72741b90b06f",
+  "active": "4c82db7928e3d0cc",
   "lastOpenFiles": [
-    "asignaturas/IIS/Esquema general.md",
+    "asignaturas/DAOO/Esquema patrones.md",
     "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
+    "asignaturas/IIS/Esquema general.md",
     "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
     "Pasted image 20250403070744.png",
     "Pasted image 20250403070435.png",
@@ -232,7 +232,6 @@
     "asignaturas/REDES/temario/3. La capa de transporte.md",
     "asignaturas/REDES/temario/1. Introducción.md",
     "asignaturas/REDES/temario/6. La capa física.md",
-    "asignaturas/REDES/temario/2. La capa de aplicación.md",
     "asignaturas/REDES/misc",
     "asignaturas/REDES/temario",
     "asignaturas/PREDA/misc",

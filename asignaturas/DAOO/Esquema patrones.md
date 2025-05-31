@@ -1,0 +1,26 @@
+- De creación (5) (ABFPS)
+	- Abstract Factory
+	- Builder
+	- Factory Method
+	- Prototype
+	- Singleton
+- Estructurales (7) (ABCDFFP)
+	- Adapter
+	- Bridge
+	- Composite
+	- Decorator
+	- Facade
+	- Flyweight
+	- Proxy
+- De comportamiento (11) (CCIIMMOSSTV)
+	- Chain of Responsibility
+	- Command
+	- Interpreter
+	- Iterator
+	- Mediator
+	- Memento
+	- Observer
+	- State
+	- Strategy
+	- Template Method
+	- Visitor

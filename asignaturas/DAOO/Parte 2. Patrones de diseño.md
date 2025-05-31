@@ -4,6 +4,7 @@
 El objetivo del patrón Builder es abstraer la construcción de objetos complejos de su implementación, de modo que un cliente pueda crear objetos complejos sin tener que preocuparse de las diferencias en su implantación.
 ### Factory Method
 ###  Prototype
+El objetivo de Prototype es la creación de nuevos objetos mediante duplicación de objetos existentes llamados prototipos que disponen de la capacidad de clonación.
 ### Singleton
 ## Tema 6. Patrones estructurales
 ### Adapter
