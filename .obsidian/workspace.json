@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c82db7928e3d0cc",
+  "active": "90ed72741b90b06f",
   "lastOpenFiles": [
     "asignaturas/DAOO/Esquema patrones.md",
     "asignaturas/DAOO/Parte 2. Patrones de diseño.md",

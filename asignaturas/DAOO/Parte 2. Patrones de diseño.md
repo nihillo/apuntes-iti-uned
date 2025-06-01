@@ -1,14 +1,21 @@
 ## Tema 5. Patrones de creación
 ### Abstract Factory
+El objetivo del patrón Abstract Factory es la creación de objetos agrupados en familias sin tener que conocer las clases concretas destinadas a la creación de estos objetos.
 ### Builder
 El objetivo del patrón Builder es abstraer la construcción de objetos complejos de su implementación, de modo que un cliente pueda crear objetos complejos sin tener que preocuparse de las diferencias en su implantación.
 ### Factory Method
+El objetivo del patrón Factory Method es proveer un método abstracto de creacióon de un objeto delegando en las subclases concretas su creación efectiva.
 ###  Prototype
 El objetivo de Prototype es la creación de nuevos objetos mediante duplicación de objetos existentes llamados prototipos que disponen de la capacidad de clonación.
 ### Singleton
+El patrón Singleton tiene como objetivo asegurar que una clase sólo posee una instancia y proporcionar un método de clase único que devuelva esta instancia.
+
 ## Tema 6. Patrones estructurales
 ### Adapter
+El objetivo del patrón Adapter es convertir la interfazs de una clase existente en la interfaz esperada por los clientes también existentes de modo que puedan trabajar de manera conjunta. Se trata de conferir a una clase existente una nueva interfaz para responder a las necesidades de los clientes.
 ### Bridge
+El objetivo del patrón Bridge es separar el aspecto de implementación de un objeto de su aspecto de representación y de interfaz.
+De este modo, por un lado la implementación puede encapsularse por completo y por otro lado la implementación y la representación pueden evolucionar de manera independiente y sin que ninguna suponga restricción alguna sobre la otra.
 ### Composite
 El objetivo del patrón Composite es ofrecer un marco de diseño de una composición de objetos de profundidad variable, diseño que estará basado en un árbol.
 Por otro lado, esta composición está encapsulada respecto a los clientes de los objetos que pueden interactuar sin tener que conocer la profundidad de la composición.
@@ -44,9 +51,9 @@ El patrón Command tiene como objetivo transformar una solicitud en un objeto, f
 ### Interpreter
 El patrón Interpreter proporciona un marco para representar mediante objetos la gramática de un lenguaje con el fin de evaluar, interpretándolas, expresiones escritas en este lenguaje.
 ### Iterator
-El patrón Iterator proporciona un acceso secuencial a a una colección de objetos a los clientes sin que éstos tengan que preocuparse de la implementación de esta colección.
+El patrón Iterator proporciona un acceso secuencial a una colección de objetos a los clientes sin que éstos tengan que preocuparse de la implementación de esta colección.
 ### Mediator
-El patrón Mediator tiene como objetivo construir un objeto cuya vocación es la gestión y el control de las interacciones en un conjunto de objetos sin que sus elementos deban conocerse mutuamente
+El patrón Mediator tiene como objetivo construir un objeto cuya vocación es la gestión y el control de las interacciones en un conjunto de objetos sin que sus elementos deban conocerse mutuamente.
 ### Memento
 El patrón Memento tiene como objetivo salvaguardar y restablecer el estado de un objeto sin violar la encapsulación.
 ### Observer
