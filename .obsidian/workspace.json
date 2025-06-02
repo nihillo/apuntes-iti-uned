@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
+                "file": "asignaturas/IIS/Conceptos exámenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte 2. Patrones de diseño"
+              "title": "Conceptos exámenes"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
+                "file": "asignaturas/IIS/Conceptos exámenes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte 2. Patrones de diseño"
+              "title": "Outline of Conceptos exámenes"
             }
           },
           {
@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,12 +191,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ed72741b90b06f",
+  "active": "4c82db7928e3d0cc",
   "lastOpenFiles": [
-    "asignaturas/DAOO/Esquema patrones.md",
-    "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
+    "misc/C/6. Estructuras de agrupamiento de variables.md",
+    "misc/C/5. Funciones.md",
+    "asignaturas/IIS/Conceptos exámenes.md",
     "asignaturas/IIS/Esquema general.md",
+    "asignaturas/DAOO/Composite MVC.md",
+    "asignaturas/DAOO/Parte 2. Patrones de diseño.md",
     "asignaturas/DAOO/Parte 1. Diseño orientado a objetos.md",
+    "asignaturas/DAOO/Esquema patrones.md",
     "Pasted image 20250403070744.png",
     "Pasted image 20250403070435.png",
     "Pasted image 20250403070155.png",
@@ -229,10 +232,6 @@
     "asignaturas/IC2/temario/2. Procesadores superescalares.md",
     "asignaturas/IC2/temario/4. Procesamiento paralelo.md",
     "asignaturas/IC2/temario/1. Procesadores segmentados.md",
-    "asignaturas/REDES/temario/4. La capa de red.md",
-    "asignaturas/REDES/temario/3. La capa de transporte.md",
-    "asignaturas/REDES/temario/1. Introducción.md",
-    "asignaturas/REDES/temario/6. La capa física.md",
     "asignaturas/REDES/misc",
     "asignaturas/REDES/temario",
     "asignaturas/PREDA/misc",

@@ -1,21 +1,52 @@
 ## Tema 5. Patrones de creación
 ### Abstract Factory
 El objetivo del patrón Abstract Factory es la creación de objetos agrupados en familias sin tener que conocer las clases concretas destinadas a la creación de estos objetos.
+#### Participantes
+- FabricaAbstracta
+- FabricaConcreta1, FabricaConcreta2
+- ProductoAbstractoA (ProductoA1, ProductoA2), ProductoAbstractoB (ProductoB1, ProductoB2)
+- Cliente
 ### Builder
 El objetivo del patrón Builder es abstraer la construcción de objetos complejos de su implementación, de modo que un cliente pueda crear objetos complejos sin tener que preocuparse de las diferencias en su implantación.
+#### Participantes
+- ConstructorAbstracto
+- ConstructorConcreto
+- Producto
+- Director
 ### Factory Method
 El objetivo del patrón Factory Method es proveer un método abstracto de creacióon de un objeto delegando en las subclases concretas su creación efectiva.
+#### Participantes
+- CreadorAbstracto
+- CreadorConcreto
+- Producto
+- ProductoConcreto
 ###  Prototype
 El objetivo de Prototype es la creación de nuevos objetos mediante duplicación de objetos existentes llamados prototipos que disponen de la capacidad de clonación.
+#### Participantes
+- Cliente
+- Prototype
+- PrototypeConcreto1, PrototypeConcreto2
 ### Singleton
 El patrón Singleton tiene como objetivo asegurar que una clase sólo posee una instancia y proporcionar un método de clase único que devuelva esta instancia.
+#### Participantes
+- Singleton
 
 ## Tema 6. Patrones estructurales
 ### Adapter
 El objetivo del patrón Adapter es convertir la interfazs de una clase existente en la interfaz esperada por los clientes también existentes de modo que puedan trabajar de manera conjunta. Se trata de conferir a una clase existente una nueva interfaz para responder a las necesidades de los clientes.
+#### Participantes
+- Cliente
+- Interfaz
+- Adaptador
+- Adaptado
 ### Bridge
 El objetivo del patrón Bridge es separar el aspecto de implementación de un objeto de su aspecto de representación y de interfaz.
 De este modo, por un lado la implementación puede encapsularse por completo y por otro lado la implementación y la representación pueden evolucionar de manera independiente y sin que ninguna suponga restricción alguna sobre la otra.
+#### Participantes
+- ClaseAbstracta
+- ClaseConcreta
+- Implementacion
+- ImplementacionA, ImplementacionB
 ### Composite
 El objetivo del patrón Composite es ofrecer un marco de diseño de una composición de objetos de profundidad variable, diseño que estará basado en un árbol.
 Por otro lado, esta composición está encapsulada respecto a los clientes de los objetos que pueden interactuar sin tener que conocer la profundidad de la composición.
@@ -27,6 +58,11 @@ Por otro lado, esta composición está encapsulada respecto a los clientes de lo
 ### Decorator
 El objetivo del patrón Decorator es agregar dinámicamente funcionalidades suplementarias a un objeto. Esta agregación de funcionalidades no modifica la interfaz del objeto y es transparente de cara a los clientes.
 El patrón Decorator constituye una alternativa respecto a la creación de una subclase para enriquecer el objeto.
+#### Participantes
+- ComponenteAbstracto
+- ComponenteConcreto
+- Decorador
+- DecoradorConcretoA, DecoradorConcretoB
 #### Dominios de aplicación
 - Sistema agrega dinámicamente funcionalidades a objeto sin modificar su interfaz
 - Sistema gestiona funcionalidades que pueden eliminarse dinámicamente
@@ -34,6 +70,9 @@ El patrón Decorator constituye una alternativa respecto a la creación de una s
 ### Facade
 El objetivo del patrón Facade es agrupar las interfaces de un conjunto de objetos en una interfaz unificada volviendo a este conjunto más fácil de usar por parte de un cliente.
 El patrón Facade encapsula la interfaz de cada objeto considerada como interfaz de bajo nivel en una interfaz única de nivel más elevado. La construcción de la interfaz unificada puede necesitar implementar métodos destinados a componer las interfaces de bajo nivel.
+#### Participantes
+- Fachada
+- Clases y componentes del sistema
 ### Flyweight
 El objetivo del patrón Flyweight es compartir de forma eficaz un conjunto de objetos de granularidad fina.
 #### Participantes
@@ -43,26 +82,74 @@ El objetivo del patrón Flyweight es compartir de forma eficaz un conjunto de ob
 ### Proxy
 El patrón Proxy tiene como objetivo el diseño de un objeto que sustituye a otro objeto (el sujeto) y que controla el acceso.
 El objeto que realiza la sustitución posee la misma interfaz que el sujeto, volviendo la sustitución transparente de cara a los clientes.
+#### Participantes
+- Sujeto
+- SujetoReal
+- Proxy
 ## Tema 7. Patrones de comportamiento
 ### Chain of Responsibility
 El patrón Chain of Responsibility construye una cadena de objetos tal que si un objeto de la cadena no puede responder a la solicitud, puede transmitirla a su sucesor y así sucesivamente hasta que uno de los objetos de la cadena responde.
+#### Participantes
+- Gestor
+- GestorConcreto1, GestorConcreto2
+- Cliente
 ### Command
 El patrón Command tiene como objetivo transformar una solicitud en un objeto, facilitando operaciones tales como la anulación, el encolamiento de solicitudes y su seguimiento.
+#### Participantes
+- Cliente
+- Solicitante
+- Solicitud
+- SolicitudConcreta
+- Receptor
 ### Interpreter
 El patrón Interpreter proporciona un marco para representar mediante objetos la gramática de un lenguaje con el fin de evaluar, interpretándolas, expresiones escritas en este lenguaje.
+#### Participantes
+- Expresion
+- Operador
+- OperadorConcreto1, OperadorConcreto2
+- ElementoTerminal
+- ElementoTerminalConcreto1, ElementoTerminalConcreto2
 ### Iterator
 El patrón Iterator proporciona un acceso secuencial a una colección de objetos a los clientes sin que éstos tengan que preocuparse de la implementación de esta colección.
+#### Participantes
+- Coleccion
+- ColeccionConcreta
+- Elemento
+- ElementoConcreto
+- Iterador
+- IteradorConcreto
 ### Mediator
 El patrón Mediator tiene como objetivo construir un objeto cuya vocación es la gestión y el control de las interacciones en un conjunto de objetos sin que sus elementos deban conocerse mutuamente.
+#### Participantes
+- Mediador
+- MediadorConcreto
+- Elemento
+- ElementoConcreto1, ElementoConcreto2
 ### Memento
 El patrón Memento tiene como objetivo salvaguardar y restablecer el estado de un objeto sin violar la encapsulación.
+#### Participantes
+- ObjetoOriginal
+- Memento
+- GestionEstado
 ### Observer
 El patrón Observer tiene como objetivo construir una dependencia entre un sujeto y los observadores de modo que cada modificación del sujeto sea notificada a los observadores para que puedan actualizar su estado.
+#### Participantes
+- Sujeto
+- SujetoConcreto
+- Observador
+- ObservadorConcreto
 ### State
 El patrón State permite a un objeto adaptar su comportamiento en función de su estado interno.
-
+#### Participantes
+- MaquinaEstados
+- Estado
+- EstadoConcretoA, EstadoConcretoB
 ### Strategy
 El patrón strategy tiene como objetivo adaptar el comportamiento y los algoritmos de un objeto en función de una necesidad sin cambiar las interacciones de este objeto con los clientes.
+#### Participantes
+- Entidad
+- Estrategia
+- EstrategiaConcretaA, EstrategiaConcretaB
 ### Template method
 El patrón Template Method permite delegar en las subclases ciertas etapas de una de las operaciones de un objeto, estando estas etapas descritas en las subclases.
 #### Participantes
@@ -70,4 +157,9 @@ El patrón Template Method permite delegar en las subclases ciertas etapas de un
 - Clase Concreta
 ### Visitor
 El patrón Visitor construye una operación que debe realizarse sobre los elementos de un conjunto de objetos. Esto permite agregar nuevas operaciones sin modificar las clases de estos objetos.
+#### Participantes
+- Elemento
+- ElementoConcreto1, ElementoConcreto2
+- Visitante
+- VisitanteConcreto1, VisitanteConcreto2
 
