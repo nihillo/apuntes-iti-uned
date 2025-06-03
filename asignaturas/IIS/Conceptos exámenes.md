@@ -1,6 +1,6 @@
 - DFD (diagrama de flujo de datos)
 - Diagramas E/R (BBDD)
-- Diagrama de estados / diagrama de transición de estados (DTE) (UML?)
+- Diagrama de transición de estados (DTE)
 - UML
 	- Diagramas UML (en general)
 	- Modelo orientado a objetos / diagrama de clases
