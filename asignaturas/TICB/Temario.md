@@ -59,12 +59,50 @@
 		6. Modos de operación para algoritmos de cifrado por bloques
 		7. Criptoanálisis de algoritmos de cifrado por bloques
 	3. Cifrados de flujo
-		1. 
+		1. Secuencias pseudoaleatorias
+		2. Tipos de generadores de secuencia
+		3. Registros de desplazamiento retroalimentados
+		4. Generadores de secuencia basados en cifrados por bloques
+		5. Algoritmos de generación de secuencia
 	4. Cifrados asimétricos
+		1. Aplicaciones de los algoritmos asimétricos
+		2. Ataques de intermediario
+		3. Algoritmo RSA
+		4. Algoritmo de Diffie-Hellman
+		5. Otros algoritmos asimétricos
+		6. Criptografía de curva elíptica
 	5. Funciones resumen
+		1. Propiedades
+		2. Longitud adecuada para una signatura
+		3. Funciones MDC
+		4. Seguridad de las funciones MDC
+		5. Funciones MAC
+		6. Cifrados autentificados
+		7. Funciones KDF
 	6. Esteganografía
+		1. Mëtodos esteganográficos
+		2. Detección de mensajes esteganografiados
 	7. Pruebas de conocimiento cero
+		1. Introducción
+		2. Elementos
+		3. Desarrollo
+		4. Modos de operación
+		5. Conocimiento cero sobre grafos
+		6. Ataques de intermediario
 4. Aplicaciones criptográficas
 	1. Protocolos de comunicación segura
+		1. Introducción
+		2. Protocolos TCP/IP
+		3. Protocolos SSL
+		4. Protocolos TLS
+		5. Protocolos IPsec
 	2. Autentificación, certificados y firmas digitales
+		1. Introducción
+		2. Firmas digitales
+		3. Certificados digitales
+		4. Verificación de certificados digitales
+		5. Autentificación mediante funciones resumen
 	3. PGP
+		1. Fundamentos e historia de PGP
+		2. Estructura de PGP
+		3. Vulnerabilidades de PGP
