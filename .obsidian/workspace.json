@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/ASO/temario/1. Sistemas Operativos Basados en UNIX (SOBUNIX) - introducción general.md",
+                "file": "asignaturas/ASO/temario/8. El sistema operativo Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Sistemas Operativos Basados en UNIX (SOBUNIX) - introducción general"
+              "title": "8. El sistema operativo Windows"
             }
           }
         ]
@@ -194,20 +194,21 @@
   },
   "active": "2edfc3c33660342e",
   "lastOpenFiles": [
-    "asignaturas/ASO/temario/3. SOBUNIX - planificación, sincronización y mecanismos IPC.md",
+    "Untitled.md",
+    "asignaturas/ASO/temario/8. El sistema operativo Windows.md",
     "asignaturas/ASO/temario/2. SOBUNIX - implementación y control de procesos multihilos.md",
+    "asignaturas/ASO/temario/1. Sistemas Operativos Basados en UNIX (SOBUNIX) - introducción general.md",
+    "asignaturas/ASO/temario/3. SOBUNIX - planificación, sincronización y mecanismos IPC.md",
     "asignaturas/FIA/Temario/Bloque I.md",
     "asignaturas/FIA/Temario/Bloque VI.md",
     "asignaturas/FIA/Temario/Bloque V.md",
     "asignaturas/FIA/Temario/Bloque IV.md",
     "asignaturas/FIA/Temario/Bloque III.md",
     "asignaturas/FIA/Temario/Bloque II.md",
-    "asignaturas/ASO/temario/8. El sistema operativo Windows.md",
     "asignaturas/ASO/temario/7. El sistema operativo MS-DOS.md",
     "asignaturas/ASO/temario/6. SOBUNIX - el sistema operativo Linux.md",
     "asignaturas/ASO/temario/5. SOBUNIX - gestión de archivos y gestión de la E-S.md",
     "asignaturas/ASO/temario/4. SOBUNIX - administración de memoria.md",
-    "asignaturas/ASO/temario/1. Sistemas Operativos Basados en UNIX (SOBUNIX) - introducción general.md",
     "asignaturas/TICB/Temario.md",
     "asignaturas/TICB",
     "asignaturas/ASO/temario",
@@ -226,7 +227,6 @@
     "Pasted image 20250403070435.png",
     "Pasted image 20250403070155.png",
     "Pasted image 20250330120119.png",
-    "Untitled.md",
     "asignaturas/FIA/Notas",
     "asignaturas/FIA/Temario",
     "Pasted image 20250403073021.png",
