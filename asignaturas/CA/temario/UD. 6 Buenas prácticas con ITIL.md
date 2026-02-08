@@ -1,0 +1,5 @@
+- Gestión de configuraciones
+- Gestión de cambios
+- Gestión de versiones
+- Gestión de niveles de servicio
+- Gestión de la seguridad
