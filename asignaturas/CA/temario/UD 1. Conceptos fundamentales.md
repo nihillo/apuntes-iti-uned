@@ -1,5 +1,13 @@
 - Control interno y auditoría informática
 - Metodologías internas y organización del departamente de auditoría informática
 # 1. Control interno y auditoría de sistemas de información
+## 1.1. Introducción
+## 1.2. Funciones de control interno y auditoría informáticos
+### 1.2.1 Control interno informático
+### 1.2.2. Auditoría informática
+## 1.3. Sistema de control interno informático
+### 1.3.1. Definición y tipos de controles informáticos
+### 1.3.2. Implantación de un sistema de controles internos informáticos
+## 1.4. Conclusiones
 # 2. Auditoría de SI vs. normas de buenas prácticas
 # 3. Metodologías de control interno, seguridad y la auditoría de sistemas de información 
