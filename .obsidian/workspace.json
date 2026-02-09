@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/SSIO/temario/12. Tendencias actuales.md",
+                "file": "asignaturas/PHSR/temario/10. Herramientas de análisis de vulnerabilidades para la auditoría de seguridad en redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Tendencias actuales"
+              "title": "10. Herramientas de análisis de vulnerabilidades para la auditoría de seguridad en redes"
             }
           }
         ]
@@ -194,6 +194,27 @@
   },
   "active": "fc796d59f4a49cec",
   "lastOpenFiles": [
+    "asignaturas/PHSR/temario/18. Introducción a los protocolos criptográficos en redes inalámbricas.md",
+    "asignaturas/PHSR/temario/17. Introducción a las Redes Privadas Virtuales.md",
+    "asignaturas/PHSR/temario/16. Protocolos criptográficos - SSL, PGP, IPSec y otros.md",
+    "asignaturas/PHSR/temario/15. Certificación, autenticación e integridad de la información. Firma digital y PKI.md",
+    "asignaturas/PHSR/temario/14. Métodos criptográficos - Sistemas de clave privada, sistemas de clave pública y sistemas de una sóla vía (one-way hash).md",
+    "asignaturas/PHSR/temario/13. Introducción a la criptografía aplicada en la informática.md",
+    "asignaturas/PHSR/temario/12. Diseño seguro de redes. Conceptos de alta disponibilidad y sistemas redundantes.md",
+    "asignaturas/PHSR/temario/11. Herramientas de detección de intrusiones en red para monitorización de seguridad en redes.md",
+    "asignaturas/PHSR/temario/10. Herramientas de análisis de vulnerabilidades para la auditoría de seguridad en redes.md",
+    "asignaturas/PHSR/temario/9. Tecnologías de última generación en cortafuegos.md",
+    "asignaturas/PHSR/temario/8. Los cortafuegos y sus aplicaciones.md",
+    "asignaturas/PHSR/temario/7. Métodos no criptográficos en la implantación de la política de seguridad.md",
+    "asignaturas/PHSR/temario/6. La política de seguridad como respuesta razonable a los problemas de seguridad en redes.md",
+    "asignaturas/PHSR/temario/5. Defensas básicas ante ataques.md",
+    "asignaturas/PHSR/temario/4. Métodos de ataque a equipos y redes.md",
+    "asignaturas/PHSR/temario/3. Seguridad en los elementos software existentes en una red.md",
+    "asignaturas/PHSR/temario/2. Seguridad en los elementos físicos existentes en una red.md",
+    "asignaturas/PHSR/temario/1. Descripción del problema de la seguridad en las comunicaciones y en la información.md",
+    "asignaturas/SSIO/temario/12. Tendencias actuales.md",
+    "asignaturas/PHSR/temario",
+    "asignaturas/PHSR",
     "asignaturas/SSIO/temario/11. Técnicas de análisis de datos.md",
     "asignaturas/SSIO/temario/10. Metodologías ágiles.md",
     "asignaturas/SSIO/temario/9. Principales sistemas de información de las organizaciones.md",
@@ -201,29 +222,10 @@
     "asignaturas/SSIO/temario/7. Nuevas formas de trabajo - teletrabajo, outsourcing y sistemas interorganizacionales.md",
     "asignaturas/SSIO/temario/6. Auditoría y aspectos legales de los Sistemas de Información.md",
     "asignaturas/SSIO/temario/5. El negocio electrónico (e-business).md",
-    "asignaturas/SSIO/temario/4. Ciberseguridad.md",
-    "asignaturas/SSIO/temario/3. El proceso de datos y los sistemas de información.md",
-    "asignaturas/SSIO/temario/2. La información.md",
-    "asignaturas/SSIO/temario/1. La Sociedad de la Información.md",
-    "asignaturas/SSIO/temario/12. Tendencias actuales.md",
     "asignaturas/SSIO/temario",
     "asignaturas/SSIO",
-    "asignaturas/CA/temario/UD 1. Conceptos fundamentales.md",
-    "asignaturas/CA/temario/UD 4. Auditoría de redes y calidad.md",
-    "asignaturas/CA/temario/UD 3. Auditoría de la seguridad.md",
-    "asignaturas/CA/temario/UD 2. Documentación y normas.md",
-    "asignaturas/CA/temario/UD. 6 Buenas prácticas con ITIL.md",
-    "asignaturas/CA/temario/UD 5. Fundamentos de ITIL.md",
-    "asignaturas/CA/temario/Parte III..md",
     "asignaturas/CA/temario",
     "asignaturas/CA",
-    "asignaturas/ASO/temario/2. SOBUNIX - implementación y control de procesos multihilos.md",
-    "asignaturas/ASO/temario/6. SOBUNIX - el sistema operativo Linux.md",
-    "asignaturas/ASO/temario/3. SOBUNIX - planificación, sincronización y mecanismos IPC.md",
-    "asignaturas/ASO/temario/1. Sistemas Operativos Basados en UNIX (SOBUNIX) - introducción general.md",
-    "asignaturas/ASO/temario/8. El sistema operativo Windows.md",
-    "asignaturas/ASO/temario/5. SOBUNIX - gestión de archivos y gestión de la E-S.md",
-    "Untitled.md",
     "asignaturas/TICB",
     "asignaturas/ASO/temario",
     "asignaturas/ASO",
@@ -232,11 +234,9 @@
     "Pasted image 20250403070155.png",
     "Pasted image 20250330120119.png",
     "asignaturas/FIA/Notas",
-    "asignaturas/FIA/Temario",
     "Pasted image 20250403073021.png",
     "Pasted image 20250403070950.png",
     "Pasted image 20250403070933.png",
-    "Pasted image 20250403070620.png",
-    "extension-universitaria/Introduccion-Computacion-Cuantica/ejercicios"
+    "Pasted image 20250403070620.png"
   ]
 }
