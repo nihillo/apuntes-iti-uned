@@ -8,6 +8,17 @@
 ## 1.3. Sistema de control interno informático
 ### 1.3.1. Definición y tipos de controles informáticos
 ### 1.3.2. Implantación de un sistema de controles internos informáticos
+#### Controles generales organizativos
+#### Controles de desarrollo, adquisición y mantenimiento de sistemas de información
+#### Controles de explotación de sistemas de información
+#### Controles en aplicaciones
+#### Controles específicos de ciertas tecnologías
+- SGBD
+- Informática distribuida y redes
+- Ordenadores personales y LAN
+#### Controles de calidad
+
+
 ## 1.4. Conclusiones
 # 2. Auditoría de SI vs. normas de buenas prácticas
 # 3. Metodologías de control interno, seguridad y la auditoría de sistemas de información 
