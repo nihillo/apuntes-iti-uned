@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/SSIO/temario/2. La información.md",
+                "file": "asignaturas/PHSR/temario/UD 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. La información"
+              "title": "UD 1"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "fc796d59f4a49cec",
   "lastOpenFiles": [
+    "asignaturas/SSIO/temario/2. La información.md",
     "asignaturas/SSIO/temario/1. La Sociedad de la Información.md",
     "asignaturas/CA/temario/UD 1. Conceptos fundamentales.md",
     "asignaturas/CA/temario/UD 2. Documentación y normas.md",
@@ -219,7 +220,6 @@
     "asignaturas/PHSR/temario/3. Seguridad en los elementos software existentes en una red.md",
     "asignaturas/PHSR/temario/2. Seguridad en los elementos físicos existentes en una red.md",
     "asignaturas/PHSR/temario/1. Descripción del problema de la seguridad en las comunicaciones y en la información.md",
-    "asignaturas/SSIO/temario/12. Tendencias actuales.md",
     "asignaturas/PHSR/temario",
     "asignaturas/PHSR",
     "asignaturas/SSIO/temario",

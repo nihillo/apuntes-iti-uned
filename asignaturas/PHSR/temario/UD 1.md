@@ -12,19 +12,71 @@
 - Mejoras de seguridad con IPv6
 - Criterios de evaluación de seguridad
 # 4. Métodos de ataque a equipos y redes
-- Taxonomía de los tipos de ataques
-- Ataques orientados a la obtención de infromación
-	- Ingeniería social
-	- Herramientas informáticas
-	- Escuchadores o "sniffers" de paquetes
-	- Análisis de metadatos
-- Ataques basados en la mala administración de sistemas
-- Ataques basados en vulnerabilidades de protocolos de red
-	- Ataques man-in-the-middle
-- Ataques basados en vulnerabilidades del software
-- Ataques de denegación de servicio (DOS)
-- Ataques por medio de código malicioso
-- Ataques a dispositivos móviles
+## Taxonomía de los tipos de ataques
+- Origen
+	- Externos
+	- Internos
+- Complejidad
+	- No estructurados
+	- Estructurados
+- Formación, experiencia y capacidad del atacante
+- Objetivos y técnicas
+	- Obtención de información sobre los objetivos a atacar
+	- Basados en mala administración de sistemas
+	- Basados en vulnerabilidades de red
+	- Basados en vulnerabilidades de software
+	- Encaminados a sabotear un servicio
+## Ataques orientados a la obtención de información sobre el objetivo
+### Ingeniería social
+- Phishing
+### Herramientas informáticas
+- ping
+- nslookup
+- port scanner
+	- nmap
+- analizadores de vulnerabilidades
+	- Nessus
+	- Metaexploit Framework
+- finger
+### Escuchadores o "sniffers" de paquetes
+- Wireshark
+### Análisis de metadatos
+- Exiftool
+## Ataques basados en la mala administración de sistemas
+- Tipos
+	- Robo de nombres de usuario y contraseñas
+	- Acceso basado en relaciones de confianza
+	- Aplicaciones de compartición de disco
+	- Mala configuración de protocolos mal autenticados
+	- Spoofing
+- Cracker
+	- diccionario
+	- fuerza bruta
+	- Crackers
+		- Brutus
+		- John the Ripper
+		- L0phtrack
+- Relaciones de confianza
+	- rlogin
+	- rcp
+	- rsh
+- Zonas wi-fi abiertas
+	- Rogue AP (tipo Man-in-the-Middle)
+- Compartición de dierctorios
+	- Servidores NFS (Network File System)
+	- Entorno Windows de compartición de directorios
+- Protocolos con mala administración de autenticación
+	- SNMP
+	- OSPF (Open Shortest Path First)
+	- EIGRP (Enhanced IGRP)
+- Spoofing 
+	- IP spoofing
+## Ataques basados en vulnerabilidades de protocolos de red
+- Ataques man-in-the-middle
+## Ataques basados en vulnerabilidades del software
+## Ataques de denegación de servicio (DOS)
+## Ataques por medio de código malicioso
+## Ataques a dispositivos móviles
 # 5. Defensas básicas ante ataques
 - Controles de acceso físico a sistemas
 - Controles de acceso lógico a sistemas
