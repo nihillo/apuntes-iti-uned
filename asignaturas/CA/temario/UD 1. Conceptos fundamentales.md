@@ -18,7 +18,7 @@
 - Ordenadores personales y LAN
 #### Controles de calidad
 
-
 ## 1.4. Conclusiones
-# 2. Auditoría de SI vs. normas de buenas prácticas
+
 # 3. Metodologías de control interno, seguridad y la auditoría de sistemas de información 
+# 5. El departamento de auditoría de los SI: organizaciones y funciones

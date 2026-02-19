@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PHSR/temario/UD 1.md",
+                "file": "asignaturas/SSIO/temario/3. El proceso de datos y los sistemas de información.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UD 1"
+              "title": "3. El proceso de datos y los sistemas de información"
             }
           }
         ]
@@ -195,12 +195,16 @@
   "active": "fc796d59f4a49cec",
   "lastOpenFiles": [
     "asignaturas/SSIO/temario/2. La información.md",
+    "asignaturas/SSIO/temario/3. El proceso de datos y los sistemas de información.md",
     "asignaturas/SSIO/temario/1. La Sociedad de la Información.md",
     "asignaturas/CA/temario/UD 1. Conceptos fundamentales.md",
     "asignaturas/CA/temario/UD 2. Documentación y normas.md",
+    "asignaturas/CA/temario/UD. 6 Buenas prácticas con ITIL.md",
+    "asignaturas/CA/temario/UD 5. Fundamentos de ITIL.md",
+    "asignaturas/CA/temario/UD 4. Auditoría de redes y calidad.md",
     "asignaturas/CA/temario/UD 3. Auditoría de la seguridad.md",
-    "asignaturas/PHSR/temario/UD 2.md",
     "asignaturas/PHSR/temario/UD 1.md",
+    "asignaturas/PHSR/temario/UD 2.md",
     "asignaturas/PHSR/temario/UD 3.md",
     "asignaturas/PHSR/temario/18. Introducción a los protocolos criptográficos en redes inalámbricas.md",
     "asignaturas/PHSR/temario/17. Introducción a las Redes Privadas Virtuales.md",
@@ -216,10 +220,6 @@
     "asignaturas/PHSR/temario/7. Métodos no criptográficos en la implantación de la política de seguridad.md",
     "asignaturas/PHSR/temario/6. La política de seguridad como respuesta razonable a los problemas de seguridad en redes.md",
     "asignaturas/PHSR/temario/5. Defensas básicas ante ataques.md",
-    "asignaturas/PHSR/temario/4. Métodos de ataque a equipos y redes.md",
-    "asignaturas/PHSR/temario/3. Seguridad en los elementos software existentes en una red.md",
-    "asignaturas/PHSR/temario/2. Seguridad en los elementos físicos existentes en una red.md",
-    "asignaturas/PHSR/temario/1. Descripción del problema de la seguridad en las comunicaciones y en la información.md",
     "asignaturas/PHSR/temario",
     "asignaturas/PHSR",
     "asignaturas/SSIO/temario",
