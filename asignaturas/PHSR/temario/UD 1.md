@@ -72,9 +72,46 @@
 - Spoofing 
 	- IP spoofing
 ## Ataques basados en vulnerabilidades de protocolos de red
-- Ataques man-in-the-middle
+- Ataques a TFTP y SMTP, RIP, IGRP, ICMP
+### Ataques man-in-the-middle
+- DNS spoofing
+- ARP spoofing
+- Ataques a DHCP
+	- Rogue DHCP
 ## Ataques basados en vulnerabilidades del software
+- Efecto autoplay
+- Uso de cookies
+- Vulnerabilidades provocadas por mala implementación
+- Buffer overflow
+	- DOS
+	- Ataques para obtener acceso a un sistema
+- Worm Morris
+- SQL injection
+- Puertas falsas
+- Bugs
+- Ventana de vulnerabilidad
+- Exploit
+- Exploit de día 0
 ## Ataques de denegación de servicio (DOS)
+- Clasificación
+	- basados en peculiaridades de protocolos
+	- basados en malas implementaciones de aplicaciones o protocolos
+	- basados en SYN floods
+	- distribuidos (DDOS)
+- Ataques DOS basados en peculiaridades de protocolos
+	- Poca importancia seguridad en diseño de protocolos
+		- Ping floods
+		- fping
+		- smurf
+	- Peculiaridades TCP
+		- land
+	- Peculiaridades IP
+		- teardrop
+- Ataques DOS basados en en malas implementaciones 
+	- ping de la muerte
+	- Out Of Band (OOB) data crash
+- Ataques DOS basados en SYN floods
+	- Mecanismo 3 stephand-shake
 ## Ataques por medio de código malicioso
 ## Ataques a dispositivos móviles
 # 5. Defensas básicas ante ataques
