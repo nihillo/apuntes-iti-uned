@@ -111,7 +111,7 @@
 	- ping de la muerte
 	- Out Of Band (OOB) data crash
 - Ataques DOS basados en SYN floods
-	- Mecanismo 3 stephand-shake
+	- Mecanismo 3 step handshake
 ## Ataques por medio de código malicioso
 ## Ataques a dispositivos móviles
 # 5. Defensas básicas ante ataques
