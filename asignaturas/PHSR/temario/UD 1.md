@@ -112,7 +112,20 @@
 	- Out Of Band (OOB) data crash
 - Ataques DOS basados en SYN floods
 	- Mecanismo 3 step handshake
+- Ataques DOS distribuidos (DDOS)
+	- BotNets
 ## Ataques por medio de código malicioso
+- Virus informáticos
+- Troyano
+- Tipos según dónde se alojan
+	- Sector de arranque
+	- Infectan archivos
+	- De propagación automática desde el receptor (worms)
+- Tipos según forma de actuar
+	- Virus
+	- Gusanos (worms)
+	- Troyanos
+	- Spyware
 ## Ataques a dispositivos móviles
 # 5. Defensas básicas ante ataques
 - Controles de acceso físico a sistemas

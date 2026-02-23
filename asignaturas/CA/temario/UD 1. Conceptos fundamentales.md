@@ -1,5 +1,6 @@
 - Control interno y auditoría informática
 - Metodologías internas y organización del departamente de auditoría informática
+- (CAP. 1, 3, 5)
 # 1. Control interno y auditoría de sistemas de información
 ## 1.1. Introducción
 ## 1.2. Funciones de control interno y auditoría informáticos
