@@ -1,3 +1,4 @@
 - Auditoría de los componentes físicos
 - Auditoría de la seguridad
 - Auditoría de bases de datos
+- (CAP. 10, 13, 15)
