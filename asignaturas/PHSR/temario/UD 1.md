@@ -52,6 +52,8 @@
 - Cracker
 	- diccionario
 	- fuerza bruta
+		- se necesita el fichero con los hashes de contraseñas de los usuarios
+		- se prueba a generar los hashes de todas las contraseñas posibles y se prueban contra él, hasta que se encuentra la que se busca
 	- Crackers
 		- Brutus
 		- John the Ripper
@@ -101,7 +103,9 @@
 - Ataques DOS basados en peculiaridades de protocolos
 	- Poca importancia seguridad en diseño de protocolos
 		- Ping floods
-		- fping
+			- enviar mucos más mensajes ICMP de los que el destino puede gestionar normalmente
+			- aplicaciones
+				- fping - envía mensajes ICMP a la velocidad máxima que la tarjeta de red del equipo pueda controlar
 		- smurf
 	- Peculiaridades TCP
 		- land
@@ -127,6 +131,8 @@
 	- Troyanos
 	- Spyware
 ## Ataques a dispositivos móviles
+- Motivaciones
+- Técnicas
 # 5. Defensas básicas ante ataques
 - Controles de acceso físico a sistemas
 - Controles de acceso lógico a sistemas
