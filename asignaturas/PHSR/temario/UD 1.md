@@ -1,6 +1,18 @@
 # 1. Descripción del problema de la seguridad en las comunicaciones y en la información
-- Unas cuantas preguntas que ayudan a definir mejor el problema
-- Soluciones "perfectas" y soluciones razonables
+## Unas cuantas preguntas que ayudan a definir mejor el problema
+- Qué se quiere tener protegido
+	- Infventario
+	- Análisis de riesgos
+- Contra quién se quiere proteger
+	- Modelo de confianza
+- Cómo se quiere proteger
+	- tipos de ataques
+	- tipos de defensas
+- Cuánto dinero se puede emplear en implantar y mantener el proceso de seguridad
+## Soluciones "perfectas" y soluciones razonables
+- Aproximación militar
+- Aproximación realista
+- Política de seguridad
 # 2. Seguridad en los elementos físicos existentes en una red
 - Sistemas de cableado o inalámbricos
 - Repetidores, hubs y conmutadores (switches)
