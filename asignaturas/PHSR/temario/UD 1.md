@@ -1,7 +1,7 @@
 # 1. Descripción del problema de la seguridad en las comunicaciones y en la información
 ## Unas cuantas preguntas que ayudan a definir mejor el problema
 - Qué se quiere tener protegido
-	- Infventario
+	- Inventario
 	- Análisis de riesgos
 - Contra quién se quiere proteger
 	- Modelo de confianza
