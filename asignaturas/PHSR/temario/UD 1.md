@@ -115,7 +115,7 @@
 - Ataques DOS basados en peculiaridades de protocolos
 	- Poca importancia seguridad en diseño de protocolos
 		- Ping floods
-			- enviar mucos más mensajes ICMP de los que el destino puede gestionar normalmente
+			- enviar muchos más mensajes ICMP de los que el destino puede gestionar normalmente
 			- aplicaciones
 				- fping - envía mensajes ICMP a la velocidad máxima que la tarjeta de red del equipo pueda controlar
 		- smurf
