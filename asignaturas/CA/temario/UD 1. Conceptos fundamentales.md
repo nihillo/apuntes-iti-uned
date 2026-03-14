@@ -21,5 +21,10 @@
 
 ## 1.4. Conclusiones
 
-# 3. Metodologías de control interno, seguridad y la auditoría de sistemas de información 
+# 3. Metodologías de control interno, seguridad y la auditoría de sistemas de información
+## 3.1. Introducción a las metodologías
+## 3.2. Metodologías de evaluación de sistemas
+## 3.3. Las metodologías de auditoría informática
+## 3.4 El plan auditor informático
+
 # 5. El departamento de auditoría de los SI: organizaciones y funciones
