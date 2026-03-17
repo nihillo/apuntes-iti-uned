@@ -64,11 +64,30 @@
 ## 6.1. Introducción
 ## 6.2. La protección de datos de carácter personal
 ## 6.3. La protección jurídica de los programas de ordenador
+### 6.3.1. Titularidad de los derechos
+(Artículo 97 TRPLI)
+- Autor del programa
+	- Autor individual: persona natural que haya creado el programa
+	- Obra colectiva: persona natural o jurídica que la edite y divulgue bajo su nombre
+	- Varios autores: propiedad común en la proporción que determinen
+	- Empresario
+### 6.3.2. Duración de la protección
+(Artículo 98 TRPLI)
+- Persona natural: toda la vida del autor y 70 años después de su muerte
+- Persona jurídica: 70 años
+### 6.3.3. Contenido de los derechos de explotación
+(Artículo 99 TRPLI)
 ## 6.4. Los delitos tecnológicos
 ## 6.5. La contratación electrónica
 ## 6.6. La firma electrónica
 ## 6.7. El DNI electrónico
 ## 6.8. El correo electrónico
+- Spam
+- Artículo 20 LSSI
+	- Indicar persona física o jurídica en nombre de quien se realiza
+	- Palabra "publicidad" al comienzo del mensaje
+- Artículo 21
+	- Prohibición de envío de comunicaciones no solicitadas o autorizadas
 ## 6.9. La videovigilancia
 ## 6.10. La ley estadounidense Sarbanes-Oxley (SOX)
 ## 6.11. Conclusiones

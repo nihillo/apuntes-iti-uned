@@ -100,6 +100,8 @@
 ## 5.3. Organización del departamento de auditoría de los SI
 ### 5.3.1. Objetivos
 ### 5.3.2. Ubicación en la organización
+- Total independencia del resto de unidades y suficiente autoridad para ejercer su labor
+- Englobada con la función de auditoría interna, actuando como un órgano dependiente dle Consejo de Administración 
 ### 5.3.3. Recursos necesarios
 ### 5.3.4. Estructura del departamento de auditoría de SI
 - Parámetros
