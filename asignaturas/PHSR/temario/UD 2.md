@@ -1,6 +1,9 @@
 # 7. Métodos no criptográficos en la implantación de la política de seguridad
 - Herramientas para puesta en marcha de la política de seguridad
 - Otros elementos a tener en cuenta
+## Herramientas para la puesta en marcha de la política de seguridad
+## Otros elementos a tener en cuenta
+
 # 8. Los cortafuegos y sus aplicaciones
 - Ventajas, inconvenientes y tipos de cortafuegos
 - Filtros de paquetes
