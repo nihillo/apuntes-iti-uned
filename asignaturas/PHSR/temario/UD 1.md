@@ -151,6 +151,10 @@
 - Otros controles simples de acceso a la información
 # 6. La política de seguridad como respuesta razonable a los problemas de seguridad en redes
 - Qué es una política de seguridad
+	- Fases:
+		- Implementación: puesta en funcionamiento de los procesos de seguridad emanados de la política de seguridad
+		- Monitorización: búsqueda de incumplimientos de la política y posibles nuevas amenazas no tenidas en cuenta
+		- Análisis de vulnerabilidades: búsqueda de bugs en SOs y aplicaciones
 - Aspectos físicos de la política de seguridad
 - Aspectos lógicos de la política de seguridad
 - Aspectos legales de la política de seguridad

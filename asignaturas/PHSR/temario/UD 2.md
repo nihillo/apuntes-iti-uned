@@ -28,8 +28,16 @@
 
 ## Caso práctico: la herramienta Nessus
 ## Herramientas de análisis de vulnerabilidades en código fuente
+- Uso
+	- Examinar código heredado
+	- Como herramienta rutinaria en el ciclo de desarrollo
+		- Esquema ciclo
 - Características generales de las herramientas SSCA
 - Tipos de herramientas SSCA
+	- De chequeo de estilos
+	- De chequeo de propiedades
+	- De tipo "bug finding"
+	- De tipo "security review"
 - Qué herramiienta seleccionar
 # 11. Herramientas de detección de intrusiones en red para monitorización de seguridad en redes
 - Caso práctico: Snort
