@@ -7,11 +7,32 @@
 - Funciones de una sola vía
 - Algoritmos de clave pública o de criptografía asimétrica
 # 15. Certificación, autenticación e integridad de la información. Firma digital y PKI
-- Autenticación, integridad y no repudio de la información
-- Sistemas de firma digital
-- El estándar X.509 y las autoridades de certificación
-- Los modelos de infraestructura de clave pública o PKI
-- Problemas de seguridad de las firmas digitales y de las PKI
+## Autenticación, integridad y no repudio de la información
+## Sistemas de firma digital
+## El estándar X.509 y las autoridades de certificación
+- Certificado digital
+- Autoridad de certificación 
+- Estándar X.509
+- Campos de un certificado X.509
+	- Versión
+	- SN (número de serie)
+		- Lista de revocación de certificados (CRL)
+	- Identificador algoritmo
+	- Parámetros
+	- AC (autoridad certificadora)
+	- Inicio validez
+	- Fin validez
+	- Usuario
+	- Algoritmo
+	- Parámetros
+	- Clave pública del usuario
+	- Firma digital de la AC
+		- Cifrado del hash del resto del certificado con la clave privada de la AC
+- Proceso de solicitud y generación de certificado
+- Proceso de comprobación de validez
+- PKI (Public Key Infrastructure)
+## Los modelos de infraestructura de clave pública o PKI
+## Problemas de seguridad de las firmas digitales y de las PKI
 # 16. Protocolos criptográficos - SSL, PGP, IPSec y otros
 - Protocolos de comercio electrónico: SSL
 - Protocolos de comercio electrónico: SET

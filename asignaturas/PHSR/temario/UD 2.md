@@ -5,11 +5,18 @@
 ## Otros elementos a tener en cuenta
 
 # 8. Los cortafuegos y sus aplicaciones
-- Ventajas, inconvenientes y tipos de cortafuegos
-- Filtros de paquetes
-	- Ejemplo: ACL de encaminadores Cisco
-- Gateways de aplicación o servidores proxy
-- Qué se puede mejorar
+## Ventajas, inconvenientes y tipos de cortafuegos
+## Filtros de paquetes
+### Ejemplo: ACL de encaminadores Cisco
+- Standard. Access Control Entry (ACE)
+	- router(config)# access-list N {permit|deny} dirección-IP-origen \[máscara]
+	- router(config)# interface nombre-interface
+	- router(config)# ip access-group N {in|out}
+- Extended
+	- router(config)# access-list N {permit|deny} protocolo dir.IP-fuente \[máscara-fuente] \[op puerto-fuente] dir.IP-destino \[máscara-destino] \[op puerto-destino]
+
+## Gateways de aplicación o servidores proxy
+## Qué se puede mejorar
 # 9. Tecnologías de última generación en cortafuegos
 - Caso práctico: modelo IPTables
 	- Procesado de paquetes en IPTables
@@ -30,6 +37,7 @@
 ## Herramientas de análisis de vulnerabilidades en código fuente
 - Uso
 	- Examinar código heredado
+		- OJO trampa examen: "en ejecución". NO analiza en ejecución.
 	- Como herramienta rutinaria en el ciclo de desarrollo
 		- Esquema ciclo
 - Características generales de las herramientas SSCA
