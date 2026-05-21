@@ -61,21 +61,23 @@
 	- Aplicaciones de compartición de disco
 	- Mala configuración de protocolos mal autenticados
 	- Spoofing
-- Cracker
-	- diccionario
-	- fuerza bruta
-		- se necesita el fichero con los hashes de contraseñas de los usuarios
-		- se prueba a generar los hashes de todas las contraseñas posibles y se prueban contra él, hasta que se encuentra la que se busca
-	- Crackers
-		- Brutus
-		- John the Ripper
-		- L0phtrack
+- Robo de nombres de usuario y contraseñas
+	- Cracker
+		- diccionario
+		- fuerza bruta
+			- se necesita el fichero con los hashes de contraseñas de los usuarios
+			- se prueba a generar los hashes de todas las contraseñas posibles y se prueban contra él, hasta que se encuentra la que se busca
+		- Crackers
+			- Brutus
+			- John the Ripper
+			- L0phtrack
 - Relaciones de confianza
-	- rlogin
-	- rcp
-	- rsh
-- Zonas wi-fi abiertas
-	- Rogue AP (tipo Man-in-the-Middle)
+	- Comandos remotos
+		- rlogin
+		- rcp
+		- rsh
+	- Zonas wi-fi abiertas
+		- Rogue AP (tipo Man-in-the-Middle)
 - Compartición de dierctorios
 	- Servidores NFS (Network File System)
 	- Entorno Windows de compartición de directorios
