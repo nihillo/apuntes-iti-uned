@@ -42,10 +42,15 @@
 		- Esquema ciclo
 - Características generales de las herramientas SSCA
 - Tipos de herramientas SSCA
-	- De chequeo de estilos
-	- De chequeo de propiedades
-	- De tipo "bug finding"
-	- De tipo "security review"
+	- Clasificaciones
+		- Según lenguajes que entienden
+		- Según clases de vulnerabilidades que analizan
+		- Según longitud de código que pueden analizar
+	- Tipos según propósito
+		- De chequeo de estilos
+		- De chequeo de propiedades
+		- De tipo "bug finding"
+		- De tipo "security review"
 - Qué herramiienta seleccionar
 # 11. Herramientas de detección de intrusiones en red para monitorización de seguridad en redes
 - Caso práctico: Snort
