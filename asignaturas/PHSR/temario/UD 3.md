@@ -29,7 +29,15 @@
 	- Firma digital de la AC
 		- Cifrado del hash del resto del certificado con la clave privada de la AC
 - Proceso de solicitud y generación de certificado
+	1. Usuario genera clave pública y privada
+	2. Genera petición de certificado y la envía a la AC
+	3. La AC comprueba la identidad y envía el certificado del usuario y el suyo propio
+	4. Usuario instala su propio certificado y el de la AC
 - Proceso de comprobación de validez
+	1. A envía su certificado a B
+	2. B descifra la firma del certificado de A mediante la clave pública de la AC y comprueba que sea válida
+	3. Si la firma es correcta, comprueba que el certificado no esté caducado ni revocado
+	4. Si la firma es válida y el certificado no está caducado ni revocado, se acepta
 - PKI (Public Key Infrastructure)
 ## Los modelos de infraestructura de clave pública o PKI
 ## Problemas de seguridad de las firmas digitales y de las PKI

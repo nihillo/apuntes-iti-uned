@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asignaturas/PHSR/temario/UD 2.md",
+                "file": "asignaturas/SSIO/temario/9. Principales sistemas de información de las organizaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UD 2"
+              "title": "9. Principales sistemas de información de las organizaciones"
             }
           }
         ]
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"asignaturas/SSIO/temario/\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 536.5
   },
   "right": {
     "id": "6f3ec4b8bc718248",
@@ -194,21 +194,21 @@
   },
   "active": "720c13413fe4be75",
   "lastOpenFiles": [
-    "asignaturas/PHSR/temario/UD 1.md",
-    "asignaturas/SSIO/temario/4. Ciberseguridad.md",
-    "asignaturas/SSIO/temario/5. El negocio electrónico (e-business).md",
-    "asignaturas/SSIO/temario/3. El proceso de datos y los sistemas de información.md",
-    "asignaturas/SSIO/temario/7. Nuevas formas de trabajo - teletrabajo, outsourcing y sistemas interorganizacionales.md",
     "asignaturas/SSIO/temario/8. La certificación de modelos y normas.md",
-    "asignaturas/PHSR/temario/Esquema temas.md",
-    "asignaturas/CA/temario/UD. 6 Buenas prácticas con ITIL.md",
-    "asignaturas/CA/temario/UD 5. Fundamentos de ITIL.md",
     "asignaturas/SSIO/temario/10. Metodologías ágiles.md",
     "asignaturas/SSIO/temario/2. La información.md",
-    "asignaturas/PHSR/temario/UD 2.md",
-    "asignaturas/PHSR/temario/UD 3.md",
+    "asignaturas/SSIO/temario/5. El negocio electrónico (e-business).md",
+    "asignaturas/SSIO/temario/4. Ciberseguridad.md",
+    "asignaturas/SSIO/temario/3. El proceso de datos y los sistemas de información.md",
+    "asignaturas/SSIO/temario/7. Nuevas formas de trabajo - teletrabajo, outsourcing y sistemas interorganizacionales.md",
     "asignaturas/SSIO/temario/9. Principales sistemas de información de las organizaciones.md",
     "asignaturas/SSIO/temario/1. La Sociedad de la Información.md",
+    "asignaturas/PHSR/temario/UD 2.md",
+    "asignaturas/PHSR/temario/Esquema temas.md",
+    "asignaturas/PHSR/temario/UD 3.md",
+    "asignaturas/PHSR/temario/UD 1.md",
+    "asignaturas/CA/temario/UD. 6 Buenas prácticas con ITIL.md",
+    "asignaturas/CA/temario/UD 5. Fundamentos de ITIL.md",
     "asignaturas/CA/temario/UD 1. Conceptos fundamentales.md",
     "asignaturas/CA/temario/UD 2. Documentación y normas.md",
     "asignaturas/CA/temario/UD 4. Auditoría de redes y calidad.md",

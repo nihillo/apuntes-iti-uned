@@ -9,11 +9,12 @@
 ## Filtros de paquetes
 ### Ejemplo: ACL de encaminadores Cisco
 - Standard. Access Control Entry (ACE)
-	- router(config)# access-list N {permit|deny} dirección-IP-origen \[máscara]
-	- router(config)# interface nombre-interface
-	- router(config)# ip access-group N {in|out}
+	- access-list N {permit|deny} dirección-IP-origen \[máscara]
+	- interface nombre-interface
+	- ip access-group N {in|out}
 - Extended
-	- router(config)# access-list N {permit|deny} protocolo dir.IP-fuente \[máscara-fuente] \[op puerto-fuente] dir.IP-destino \[máscara-destino] \[op puerto-destino]
+	-  access-list N {permit|deny} protocolo dir.IP-fuente \[máscara-fuente] \[op puerto-fuente] dir.IP-destino \[máscara-destino] \[op puerto-destino]
+- NOTA: el puerto se puede escribir numéricamente (p. ej. "eq 25") o con el nombre del servicio (p. ej. "eq smtp")
 
 ## Gateways de aplicación o servidores proxy
 ## Qué se puede mejorar
@@ -29,12 +30,22 @@
 	- Qué son los niveles ASA
 	- Otras características avanzadas del ASA
 # 10. Herramientas de análisis de vulnerabilidades para la auditoría de seguridad en redes
-
+## Introducción
+- Definición
+- Tipos
+	- En tiempo real
+		- Busqueda de vulnerabilidades en aplicaciones o sistemas en ejecución, contra listado de vulnerabilidades conocidas, mediante cierto motor de búsqueda
+		- También engloba herramientas de auditoría de redes y escaneo de puertos
+	- Analizadores estáticos de código
+		- SSCA (Static Source Code Analyzer)
+		- Analízan código, esté o no en ejecución
+		- Diferentes tipos de algoritmos para realizar la búsqueda
+		- Uso recomendable en ciclo de diseño y desarrollo
 ## Caso práctico: la herramienta Nmap
 ### Instalación y uso de Nmap
 
 ## Caso práctico: la herramienta Nessus
-## Herramientas de análisis de vulnerabilidades en código fuente
+## Herramientas de análisis de vulnerabilidades en código fuente (SSCA)
 - Uso
 	- Examinar código heredado
 		- OJO trampa examen: "en ejecución". NO analiza en ejecución.
