@@ -42,22 +42,75 @@
 ## Los modelos de infraestructura de clave pública o PKI
 ## Problemas de seguridad de las firmas digitales y de las PKI
 # 16. Protocolos criptográficos - SSL, PGP, IPSec y otros
-- Protocolos de comercio electrónico: SSL
-- Protocolos de comercio electrónico: SET
-- Los protocolos IPSec
-	- Protocolo AH - Authentication Header
-	- Protocolo ESP - Encapsulating Security Payload
-	- Asociaciones de seguridad en IPSec
-	- Un ejemplo básico de uso de IPSec
-- Protocolo PGP
+## Protocolos de comercio electrónico: SSL
+## Protocolos de comercio electrónico: SET
+## Los protocolos IPSec
+###  Protocolo AH - Authentication Header
+### Protocolo ESP - Encapsulating Security Payload
+### Asociaciones de seguridad en IPSec
+### Un ejemplo básico de uso de IPSec
+### Protocolo PGP
 # 17. Introducción a las Redes Privadas Virtuales
-- Caracterización de las redes privadas virtuales
-	- Ventajas e inconvenientes de las VPN
-	- Arquitectura y planificación de RPVs
-	- Rendimiento, mantenimiento y seguridad
-- Configuración típica de una VPN que use IPSec
-- VPN mediante SSL
-- VPN a través de redes MPLS
+## Caracterización de las redes privadas virtuales
+- Características
+	- Integridad
+	- Privacidad
+	- Autenticación
+	- Control de acceso
+	- Auditoría y registro de actividades
+	- Calidad del servicio
+- Tipos
+	- Extremo a extremo
+	- Intermedias
+	- Origen-intermedio
+### Ventajas e inconvenientes de las VPN
+- Ventajas
+	- Reducción de costes
+	- Mejora de la seguridad
+	- Integración de los datos
+	- Flexibilidad y escalabilidad
+	- Simplificación de las operaciones
+- Inconvenientes
+	- Gastos puesta en marcha (equipos, infraestructura)
+	- Riesgos de seguridad
+	- Complejidad del sistema
+	- Rendimiento
+### Arquitectura y planificación de RPVs
+- Componentes
+	- Tunneling
+	- Servicios de seguridad
+- Elementos
+	- Red no segura
+	- Pasarelas de seguridad
+	- Servidores de política de seguridad
+	- Servidores de certificación
+- PKI y autenticación
+### Rendimiento, mantenimiento y seguridad
+- Rendimiento. Factores:
+	- Velocidad y fiabilidad
+	- Fortaleza del procesado de cifrado
+- Mantenimiento
+	- Gestión de fallos de funcionamiento
+	- Gestión de configuración
+	- Gestión de auditoría y contabilidad del uso de recursos
+	- Gestión de la seguridad
+- Seguridad
+## Configuración típica de una VPN que use IPSec
+## VPN mediante SSL
+## VPN a través de redes MPLS
+- Redes MPLS: Multi Protocol Label Switching 
+	- utilizan etiquetas de nivel 2 de OSI para tomar las decisiones de encaminamiento
+	- orientadas a conexión
+	- rutas preconfiguradas - LSP (Label Switching Paths)
+- La VPN se basa no en un protocolo de cifrado sino en la estructura propiamente dicha de la red
+- Tipos:
+	- VPN nivel 3
+		- Proveedor participa en el encaminamiento de nivel 3
+	- VPN nivel 2
+		- Proveedor interconecta sedes a través de tecnología de nivel 2 (capa de enlace): Ethernet, Frame Relay o ATM
+		- Cliente mantiene control de encaminamiento de nivel 3
+	- LAN Privadas Virtuales (VPLS)
+
 # 18. Introducción a los protocolos criptográficos en redes inalámbricas
 - Redes inalámbricas. Conceptos básicos
 	- 802.11 a/b/g/n

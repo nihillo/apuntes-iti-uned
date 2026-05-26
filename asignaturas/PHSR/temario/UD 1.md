@@ -148,9 +148,13 @@
 - Motivaciones
 - Técnicas
 # 5. Defensas básicas ante ataques
-- Controles de acceso físico a sistemas
-- Controles de acceso lógico a sistemas
-- Otros controles simples de acceso a la información
+## Controles de acceso físico a sistemas
+## Controles de acceso lógico a sistemas
+- Operaciones
+	- Identificación
+	- Autenticación
+- Una vez autenticado: imponer qué puede y no puede hacer el usuario
+## Otros controles simples de acceso a la información
 # 6. La política de seguridad como respuesta razonable a los problemas de seguridad en redes
 - Qué es una política de seguridad
 	- Fases:
