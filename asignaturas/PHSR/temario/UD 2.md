@@ -8,11 +8,11 @@
 ## Ventajas, inconvenientes y tipos de cortafuegos
 - Puntos fuertes
 	- Punto esencial de la aplicación de la política de seguridad
-	- Soportan técnicas avanzadas de autenticación
+	- Soportan técnicas avanzadas de autenticación de forma más económica que equipo a equipo
 	- Centralizar alarmas y registros de tráfico
 	- Menos configuración que un sistema de propósito general
 	- Necesitan pocos usuarios definidos
-	- Política general restrictiva
+	- Política general restrictiva (no dejar pasar ningún tráfico): resulta muy segura
 - Puntos débiles
 	- Dejar de usar ciertos servicios
 	- Sensación de seguridad falsa
