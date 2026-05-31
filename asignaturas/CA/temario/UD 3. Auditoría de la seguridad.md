@@ -2,12 +2,28 @@
 - Auditoría de la seguridad
 - Auditoría de bases de datos
 - (CAP. 10, 13, 15)
-## Seguridad física y lógica
+## Auditoría de los componentes físicos
+### Seguridad física
+- Seguridad física
+### Riesgos en los componentes físicos
+- Riesgos en los componentes físicos
+- Plan de contingencia
+### Normas y estándares relacionados
+- Normas y estándares relacionados
+- Modelo COBIT
+- DSI2 de COBIT
+- Indicadores de efectividad
+- ISO 27002 - seguridad física y del entorno
+- CSCN
+### Relación con ITIL
+- Relación con ITIL
+## Auditoría de la seguridad
+### Seguridad física y lógica
 - Seguridad física
 - Seguridad física vs. lógica
 - Tipos de controles de seguridad lógica
 - Perfil del auditor de seguridad
-## Normas y estándares
+### Normas y estándares
 - Normas y estándares
 	- COBIT - Control Objectives for Information and related Technologies
 	- ISO 27001
@@ -22,11 +38,11 @@
 - Directrices de ISACA relacionados con seguridad
 - Procedimientos de ISACA relacionados con seguridad
 - Relación con ITIL
-## Riesgos de seguridad
+### Riesgos de seguridad
 - Riesgos en los componentes físicos
 - Plan de contingencia
 - Evaluación de riesgos
-## Áreas, fases y tipos de auditorías
+### Áreas, fases y tipos de auditorías
 - Auditoría de seguridad
 - Auditoría de seguridad en la continuidad de operaciones
 - Auditoría de seguridad en el desarrollo de aplicaciones
@@ -35,10 +51,13 @@
 - Auditoría de los datos
 - Metodologías
 - Recomendaciones COBIT
-## Ciclo de vida de los datos
+### Ciclo de vida de los datos
 - Ciclo de vida de los datos
 - Estudio previo y plan de trabajo
 - Concepción de las bases de datos y selección de equipo
 - Diseño y carga de la base de datos
 - Explotación y mantenimiento de la base de datos
 - Revisión post-implantación
+### Elementos auditables
+### Técnicas de control
+- Técnicas para el control de una base de datos en un entorno complejo

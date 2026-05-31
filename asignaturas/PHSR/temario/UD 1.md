@@ -125,7 +125,7 @@
 		- land
 	- Peculiaridades IP
 		- teardrop
-- Ataques DOS basados en en malas implementaciones 
+- Ataques DOS basados en en malas implementaciones de aplicaciones
 	- ping de la muerte
 	- Out Of Band (OOB) data crash
 - Ataques DOS basados en SYN floods
