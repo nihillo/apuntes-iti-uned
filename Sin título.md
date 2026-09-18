@@ -1,0 +1,4 @@
+- $exp(TotalIncomes, m) = \sum_{c \in L_m^+} exp(c, m)$
+- $var_amt(TotalIncomes, m) = \sqrt{\sum_{c \in L_m^+} (var_amt(c, m))^2}$
+- $var_pct(TotalIncomes, m) = \frac{var_amt(TotalIncomes, m)}{|exp(TotalIncomes, m)|} \times 100% \quad (\text{if } exp \neq 0, \text{ else } 0%)$
+- $contingency(TotalIncomes) = \text{N/A}$

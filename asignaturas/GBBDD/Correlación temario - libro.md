@@ -1,0 +1,20 @@
+- Bases de datos orientadas a objetos
+	- Cap. 22. Bases de datos orientadas a objetos
+- XML
+	- Cap. 23. XML
+- Transacciones
+	- Cap. 14. Transacciones
+- Análisis y minería de datos
+	- Cap. 20. Almacenes de datos y minería de datos
+- Arquitectura de los sistemas de bases de datos
+	- Cap. 17. Arquitecturas de los sistemas de bases de datos
+- Bases de datos paralelas
+	- Cap. 18. Bases de datos paralelas
+- Bases de datos distribuidas
+	- Cap. 19. Bases de datos distribuidas
+- Datos espaciales, temporales y movilidad
+	- Cap. 25. Datos espaciales, temporales y movilidad
+- PostgreSQL
+	- Cap. 27 PostgreSQL
+- Oracle
+	- Cap. 28. Oracle
